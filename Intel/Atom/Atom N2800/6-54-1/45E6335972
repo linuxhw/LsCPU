@@ -1,0 +1,20 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 54
+Model name:            Intel(R) Atom(TM) CPU N2800   @ 1.86GHz
+Stepping:              1
+CPU MHz:               1862.000
+CPU max MHz:           1862,0000
+CPU min MHz:           798,0000
+BogoMIPS:              3733.20
+L1d cache:             24K
+L1i cache:             32K
+L2 cache:              512K

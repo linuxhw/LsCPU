@@ -1,0 +1,15 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Pentium(R) D CPU 2.80GHz
+Stepping:              7
+CPU MHz:               2800.145
+BogoMIPS:              5600.29

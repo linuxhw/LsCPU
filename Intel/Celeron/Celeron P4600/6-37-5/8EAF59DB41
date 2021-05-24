@@ -1,0 +1,31 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   36 bits physical, 48 bits virtual
+CPU(s):                          2
+On-line CPU(s) list:             0,1
+Thread(s) per core:              1
+Core(s) per socket:              2
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           37
+Model name:                      Intel(R) Celeron(R) CPU        P4600  @ 2.00GHz
+Stepping:                        5
+CPU MHz:                         1284.283
+CPU max MHz:                     1999.0000
+CPU min MHz:                     933.0000
+BogoMIPS:                        3990.19
+Virtualization:                  VT-x
+L1d cache:                       64 KiB
+L1i cache:                       64 KiB
+L2 cache:                        512 KiB
+L3 cache:                        2 MiB
+NUMA node0 CPU(s):               0,1
+Vulnerability L1tf:              Mitigation; PTE Inversion; VMX conditional cache flushes, SMT disabled
+Vulnerability Meltdown:          Mitigation; PTI
+Vulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, IBPB, IBRS_FW
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm pcid popcnt lahf_lm pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid dtherm arat flush_l1d

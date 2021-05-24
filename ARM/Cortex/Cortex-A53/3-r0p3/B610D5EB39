@@ -1,0 +1,15 @@
+Architecture:        armv8l
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           2
+Vendor ID:           ARM
+Model:               3
+Model name:          Cortex-A53
+Stepping:            r0p3
+CPU max MHz:         1200.0000
+CPU min MHz:         208.0000
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32

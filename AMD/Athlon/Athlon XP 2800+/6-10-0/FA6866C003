@@ -1,0 +1,20 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            6
+Model:                 10
+Model name:            AMD Athlon(tm) XP 2800+
+Stepping:              0
+CPU MHz:               2087.500
+CPU max MHz:           2087,5000
+CPU min MHz:           1462,5000
+BogoMIPS:              4209.58
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K

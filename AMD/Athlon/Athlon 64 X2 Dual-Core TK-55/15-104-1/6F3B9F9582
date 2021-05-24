@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 104
+Model name:            AMD Athlon(tm) 64 X2 Dual-Core Processor TK-55
+Stepping:              1
+CPU MHz:               1600.000
+CPU max MHz:           1800,0000
+CPU min MHz:           800,0000
+BogoMIPS:              3191.56
+Virtualization:        AMD-V

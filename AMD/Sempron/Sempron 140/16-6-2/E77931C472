@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 6
+Model name:            AMD Sempron(tm) 140 Processor
+Stepping:              2
+CPU MHz:               1900.000
+CPU max MHz:           2700,0000
+CPU min MHz:           800,0000
+BogoMIPS:              5424.66
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              1024K

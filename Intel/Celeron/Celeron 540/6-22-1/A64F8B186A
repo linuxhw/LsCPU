@@ -1,0 +1,19 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 22
+Model name:            Intel(R) Celeron(R) CPU          540  @ 1.86GHz
+Stepping:              1
+CPU MHz:               1862.066
+BogoMIPS:              3724.13
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              1024K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 tm pbe nx lm constant_tsc arch_perfmon pebs bts cpuid aperfmperf pni dtes64 monitor ds_cpl tm2 ssse3 cx16 xtpr pdcm lahf_lm pti dtherm

@@ -1,0 +1,33 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   36 bits physical, 48 bits virtual
+CPU(s):                          2
+On-line CPU(s) list:             0,1
+Thread(s) per core:              1
+Core(s) per socket:              2
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           55
+Model name:                      Intel(R) Celeron(R) CPU  N2840  @ 2.16GHz
+Stepping:                        8
+CPU MHz:                         2583.333
+CPU max MHz:                     2582.3000
+CPU min MHz:                     499.8000
+BogoMIPS:                        4333.33
+L1d cache:                       48 KiB
+L1i cache:                       64 KiB
+L2 cache:                        1 MiB
+NUMA node0 CPU(s):               0,1
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Mitigation; Clear CPU buffers; SMT disabled
+Vulnerability Meltdown:          Mitigation; PTI
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, IBPB conditional, IBRS_FW, STIBP disabled, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology tsc_reliable nonstop_tsc cpuid aperfmperf tsc_known_freq pni pclmulqdq dtes64 monitor ds_cpl est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 movbe popcnt tsc_deadline_timer rdrand lahf_lm 3dnowprefetch epb pti ibrs ibpb stibp tsc_adjust smep erms dtherm ida arat md_clear

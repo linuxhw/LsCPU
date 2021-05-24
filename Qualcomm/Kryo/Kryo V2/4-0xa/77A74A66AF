@@ -1,0 +1,19 @@
+Architecture:        aarch64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              8
+On-line CPU(s) list: 0-7
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           2
+Vendor ID:           Qualcomm
+Model:               4
+Model name:          Kryo V2
+Stepping:            0xa
+CPU max MHz:         2208.0000
+CPU min MHz:         633.6000
+BogoMIPS:            38.40
+L1d cache:           256 KiB
+L1i cache:           256 KiB
+L2 cache:            2 MiB
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32

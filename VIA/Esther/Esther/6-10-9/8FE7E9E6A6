@@ -1,0 +1,16 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             CentaurHauls
+CPU family:            6
+Model:                 10
+Model name:            VIA Esther processor 1000MHz
+Stepping:              9
+CPU MHz:               899.833
+BogoMIPS:              1799.66
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge cmov pat clflush acpi mmx fxsr sse sse2 tm nx cpuid pni est tm2 rng rng_en ace ace_en ace2 ace2_en phe phe_en pmm pmm_en

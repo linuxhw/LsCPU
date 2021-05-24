@@ -1,0 +1,15 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 79
+Model name:            AMD Sempron(tm) Processor 3200+
+Stepping:              2
+CPU MHz:               1808.357
+BogoMIPS:              3616.71

@@ -1,0 +1,17 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Celeron(R) CPU 2.53GHz
+Stepping:              1
+CPU MHz:               2545.667
+BogoMIPS:              5091.33
+L1d cache:             16K
+L2 cache:              256K

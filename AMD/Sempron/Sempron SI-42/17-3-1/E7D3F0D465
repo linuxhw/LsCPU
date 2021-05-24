@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            17
+Model:                 3
+Model name:            AMD Sempron(tm) SI-42
+Stepping:              1
+CPU MHz:               1050.000
+CPU max MHz:           2100.0000
+CPU min MHz:           1050.0000
+BogoMIPS:              4199.90
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+NUMA node0 CPU(s):     0
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl nonstop_tsc extd_apicid pni cx16 lahf_lm extapic cr8_legacy 3dnowprefetch osvw skinit hw_pstate vmmcall

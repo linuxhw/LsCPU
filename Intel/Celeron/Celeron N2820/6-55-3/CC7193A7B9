@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 55
+Model name:            Intel(R) Celeron(R) CPU  N2820  @ 2.13GHz
+Stepping:              3
+CPU MHz:               2315.696
+CPU max MHz:           2399.4000
+CPU min MHz:           533.2000
+BogoMIPS:              4265.60
+Virtualization:        VT-x
+L1d cache:             24K
+L1i cache:             32K
+L2 cache:              1024K

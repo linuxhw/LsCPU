@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 76
+Model name:            Intel(R) Celeron(R) CPU  N3050  @ 1.60GHz
+Stepping:              3
+CPU MHz:               2135.742
+CPU max MHz:           2160.0000
+CPU min MHz:           480.0000
+BogoMIPS:              3207.44
+Virtualization:        VT-x
+L1d cache:             24K
+L1i cache:             32K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0,1

@@ -1,0 +1,24 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 4
+Model name:            AMD Phenom(tm) II X4 945 Processor
+Stepping:              2
+CPU MHz:               800.000
+CPU max MHz:           3000,0000
+CPU min MHz:           800,0000
+BogoMIPS:              6027.37
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+L3 cache:              6144K
+NUMA node0 CPU(s):     0-3

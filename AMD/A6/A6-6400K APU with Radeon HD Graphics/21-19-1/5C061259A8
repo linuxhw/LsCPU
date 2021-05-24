@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            21
+Model:                 19
+Model name:            AMD A6-6400K APU with Radeon(tm) HD Graphics
+Stepping:              1
+CPU MHz:               2200.000
+CPU max MHz:           3900,0000
+CPU min MHz:           1800,0000
+BogoMIPS:              7785.00
+Virtualization:        AMD-V
+L1d cache:             16K
+L1i cache:             64K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0,1

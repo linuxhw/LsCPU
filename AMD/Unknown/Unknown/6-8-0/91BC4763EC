@@ -1,0 +1,19 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            6
+Model:                 8
+Model name:            AMD Athlon(TM) XP 2000+
+Stepping:              0
+CPU MHz:               1849.525
+BogoMIPS:              3699.05
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              256K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 mmx fxsr sse syscall mmxext 3dnowext 3dnow cpuid 3dnowprefetch vmmcall

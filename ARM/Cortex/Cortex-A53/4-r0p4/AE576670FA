@@ -1,0 +1,25 @@
+Architecture:                    aarch64
+CPU op-mode(s):                  64-bit
+Byte Order:                      Little Endian
+CPU(s):                          6
+On-line CPU(s) list:             0-5
+Thread(s) per core:              1
+Core(s) per socket:              3
+Socket(s):                       2
+Vendor ID:                       ARM
+Model:                           4
+Model name:                      Cortex-A53
+Stepping:                        r0p4
+CPU max MHz:                     1800.0000
+CPU min MHz:                     408.0000
+BogoMIPS:                        48.00
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Branch predictor hardening
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fp asimd evtstrm aes pmull sha1 sha2 crc32 cpuid

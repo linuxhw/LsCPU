@@ -1,0 +1,15 @@
+Architecture:          i586
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            5
+Model:                 8
+Model name:            Mobile Pentium MMX
+Stepping:              1
+CPU MHz:               231.783
+BogoMIPS:              463.56

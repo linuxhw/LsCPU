@@ -1,0 +1,37 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   40 bits physical, 48 bits virtual
+CPU(s):                          24
+On-line CPU(s) list:             0-23
+Thread(s) per core:              2
+Core(s) per socket:              6
+Socket(s):                       2
+NUMA node(s):                    2
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           44
+Model name:                      Intel(R) Xeon(R) CPU           X5650  @ 2.67GHz
+Stepping:                        2
+Frequency boost:                 enabled
+CPU MHz:                         1980.360
+CPU max MHz:                     2661.0000
+CPU min MHz:                     1596.0000
+BogoMIPS:                        5328.15
+Virtualization:                  VT-x
+L1d cache:                       384 KiB
+L1i cache:                       384 KiB
+L2 cache:                        3 MiB
+L3 cache:                        24 MiB
+NUMA node0 CPU(s):               0-5,12-17
+NUMA node1 CPU(s):               6-11,18-23
+Vulnerability Itlb multihit:     KVM: Mitigation: VMX disabled
+Vulnerability L1tf:              Mitigation; PTE Inversion; VMX conditional cache flushes, SMT vulnerable
+Vulnerability Mds:               Vulnerable: Clear CPU buffers attempted, no microcode; SMT vulnerable
+Vulnerability Meltdown:          Mitigation; PTI
+Vulnerability Spec store bypass: Mitigation; Speculative Store Bypass disabled via prctl and seccomp
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, IBPB conditional, IBRS_FW, STIBP conditional, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ht tm pbe syscall nx pdpe1gb rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc cpuid aperfmperf pni pclmulqdq dtes64 monitor ds_cpl vmx smx est tm2 ssse3 cx16 xtpr pdcm pcid dca sse4_1 sse4_2 popcnt aes lahf_lm epb pti ssbd ibrs ibpb stibp tpr_shadow vnmi flexpriority ept vpid dtherm ida arat flush_l1d

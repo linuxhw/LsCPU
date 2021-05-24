@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 37
+Model name:            Intel(R) Core(TM) i5 CPU       M 480  @ 2.67GHz
+Stepping:              5
+CPU MHz:               2667.000
+CPU max MHz:           2667,0000
+CPU min MHz:           1199,0000
+BogoMIPS:              5319.94
+Virtualization:        VT-x

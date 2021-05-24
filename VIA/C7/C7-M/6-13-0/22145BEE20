@@ -1,0 +1,18 @@
+Architecture:        i686
+CPU op-mode(s):      32-bit
+Byte Order:          Little Endian
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+Vendor ID:           CentaurHauls
+CPU family:          6
+Model:               13
+Model name:          VIA C7-M Processor 1600MHz
+Stepping:            0
+CPU MHz:             1600.000
+CPU max MHz:         1600.0000
+CPU min MHz:         800.0000
+BogoMIPS:            3191.78
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge cmov pat clflush acpi mmx fxsr sse sse2 tm nx eagerfpu pni est tm2 xtpr rng rng_en ace ace_en ace2 ace2_en phe phe_en pmm pmm_en

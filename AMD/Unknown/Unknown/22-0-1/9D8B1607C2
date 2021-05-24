@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            22
+Model:                 0
+Model name:            AMD A4-5000 APU with Radeon(TM) HD Graphics
+Stepping:              1
+CPU MHz:               800.000
+CPU max MHz:           1500,0000
+CPU min MHz:           800,0000
+BogoMIPS:              2994.11
+Virtualization:        AMD-V
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              2048K
+NUMA node0 CPU(s):     0-3

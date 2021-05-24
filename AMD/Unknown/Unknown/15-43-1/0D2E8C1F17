@@ -1,0 +1,21 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 43
+Model name:            AMD Hammer Family processor - Model Unknown
+Stepping:              1
+CPU MHz:               2412.184
+BogoMIPS:              4824.36
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+NUMA node0 CPU(s):     0
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt lm 3dnowext 3dnow rep_good nopl cpuid pni lahf_lm 3dnowprefetch vmmcall

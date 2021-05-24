@@ -1,0 +1,15 @@
+Architecture:        aarch64
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           2
+NUMA node(s):        1
+Vendor ID:           ARM
+Model:               2
+Model name:          Cortex-A57
+Stepping:            r1p2
+BogoMIPS:            500.00
+NUMA node0 CPU(s):   0-3
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32 cpuid

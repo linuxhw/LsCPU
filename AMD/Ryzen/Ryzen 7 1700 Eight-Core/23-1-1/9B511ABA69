@@ -1,0 +1,24 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                16
+On-line CPU(s) list:   0-15
+Thread(s) per core:    2
+Core(s) per socket:    8
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            23
+Model:                 1
+Model name:            AMD Ryzen 7 1700 Eight-Core Processor
+Stepping:              1
+CPU MHz:               1550.000
+CPU max MHz:           3600,0000
+CPU min MHz:           1550,0000
+BogoMIPS:              7186.26
+Virtualization:        AMD-V
+L1d cache:             32K
+L1i cache:             64K
+L2 cache:              512K
+L3 cache:              8192K
+NUMA node0 CPU(s):     0-15

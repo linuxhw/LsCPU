@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 14
+Model name:            Genuine Intel(R) CPU           T1300  @ 1.66GHz
+Stepping:              8
+CPU MHz:               1667.000
+CPU max MHz:           1667,0000
+CPU min MHz:           1000,0000
+BogoMIPS:              3324.81
+Virtualization:        VT-x

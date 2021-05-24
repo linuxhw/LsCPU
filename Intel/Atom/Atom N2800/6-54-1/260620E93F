@@ -1,0 +1,28 @@
+Architecture:                    i686
+CPU op-mode(s):                  32-bit
+Byte Order:                      Little Endian
+Address sizes:                   36 bits physical, 32 bits virtual
+CPU(s):                          4
+On-line CPU(s) list:             0-3
+Thread(s) per core:              2
+Core(s) per socket:              2
+Socket(s):                       1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           54
+Model name:                      Intel(R) Atom(TM) CPU N2800   @ 1.86GHz
+Stepping:                        1
+CPU MHz:                         1595.871
+CPU max MHz:                     1862.0000
+CPU min MHz:                     798.0000
+BogoMIPS:                        3725.04
+L1d cache:                       48 KiB
+L1i cache:                       64 KiB
+L2 cache:                        1 MiB
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Not affected
+Vulnerability Spectre v2:        Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx constant_tsc arch_perfmon pebs bts nonstop_tsc cpuid aperfmperf pni dtes64 monitor ds_cpl est tm2 ssse3 xtpr pdcm movbe lahf_lm dtherm arat

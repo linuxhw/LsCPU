@@ -1,0 +1,16 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                6
+On-line CPU(s) list:   0-5
+Thread(s) per core:    2
+Core(s) per socket:    3
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            21
+Model:                 2
+Model name:            AMD FX(tm)-6300 Six-Core Processor
+Stepping:              0
+CPU MHz:               4620.982
+BogoMIPS:              9241.96
+Virtualization:        AMD-V

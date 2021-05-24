@@ -1,0 +1,31 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   40 bits physical, 48 bits virtual
+CPU(s):                          1
+On-line CPU(s) list:             0
+Thread(s) per core:              1
+Core(s) per socket:              1
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       AuthenticAMD
+CPU family:                      15
+Model:                           111
+Model name:                      AMD Sempron(tm) Processor 210U
+Stepping:                        2
+CPU MHz:                         1500.068
+BogoMIPS:                        3000.13
+L1d cache:                       64 KiB
+L1i cache:                       64 KiB
+L2 cache:                        256 KiB
+NUMA node0 CPU(s):               0
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, STIBP disabled, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow rep_good nopl cpuid extd_apicid pni cx16 lahf_lm extapic cr8_legacy 3dnowprefetch vmmcall

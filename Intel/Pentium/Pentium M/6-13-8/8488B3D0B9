@@ -1,0 +1,17 @@
+Architecture:        i686
+CPU op-mode(s):      32-bit
+Byte Order:          Little Endian
+Address sizes:       32 bits physical, 32 bits virtual
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               13
+Model name:          Intel(R) Pentium(R) M processor 1.86GHz
+Stepping:            8
+CPU MHz:             1862.010
+BogoMIPS:            3724.02
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov clflush dts acpi mmx fxsr sse sse2 ss tm pbe bts cpuid est tm2

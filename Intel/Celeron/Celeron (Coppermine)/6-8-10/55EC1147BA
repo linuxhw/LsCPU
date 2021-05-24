@@ -1,0 +1,16 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 8
+Model name:            Celeron (Coppermine)
+Stepping:              10
+CPU MHz:               1000.061
+BogoMIPS:              2000.12
+Flags:                 fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pse36 mmx fxsr sse cpuid

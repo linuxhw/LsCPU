@@ -1,0 +1,16 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    2
+Core(s) per socket:    4
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            21
+Model:                 2
+Model name:            AMD FX(tm)-8350 Eight-Core Processor
+Stepping:              0
+CPU MHz:               4013.480
+BogoMIPS:              8026.96
+Virtualization:        AMD-V

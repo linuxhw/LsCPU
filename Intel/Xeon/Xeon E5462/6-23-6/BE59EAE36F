@@ -1,0 +1,24 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 23
+Model name:            Intel(R) Xeon(R) CPU           E5462  @ 2.80GHz
+Stepping:              6
+CPU MHz:               2394.082
+CPU max MHz:           2800.0000
+CPU min MHz:           2400.0000
+BogoMIPS:              5585.45
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              6144K
+NUMA node0 CPU(s):     0-7
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl cpuid aperfmperf pni dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm dca sse4_1 lahf_lm pti tpr_shadow vnmi flexpriority dtherm

@@ -1,0 +1,27 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   40 bits physical, 48 bits virtual
+CPU(s):                          1
+On-line CPU(s) list:             0
+Thread(s) per core:              1
+Core(s) per socket:              1
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       AuthenticAMD
+CPU family:                      15
+Model:                           47
+Model name:                      AMD Athlon(tm) 64 Processor 3000+
+Stepping:                        2
+CPU MHz:                         1795.833
+BogoMIPS:                        3591.66
+L1d cache:                       64 KiB
+L1i cache:                       64 KiB
+L2 cache:                        512 KiB
+NUMA node0 CPU(s):               0
+Vulnerability L1tf:              Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt lm 3dnowext 3dnow rep_good nopl cpuid extd_apicid pni lahf_lm 3dnowprefetch vmmcall

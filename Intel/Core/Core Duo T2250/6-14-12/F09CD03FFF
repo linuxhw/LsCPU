@@ -1,0 +1,22 @@
+Architecture:        i686
+CPU op-mode(s):      32-bit
+Byte Order:          Little Endian
+Address sizes:       32 bits physical, 32 bits virtual
+CPU(s):              2
+On-line CPU(s) list: 0,1
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               14
+Model name:          Intel(R) Core(TM) Duo CPU      T2250  @ 1.73GHz
+Stepping:            12
+CPU MHz:             811.249
+CPU max MHz:         1733.0000
+CPU min MHz:         800.0000
+BogoMIPS:            3458.15
+L1d cache:           32K
+L1i cache:           32K
+L2 cache:            2048K
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov clflush dts acpi mmx fxsr sse sse2 ht tm pbe constant_tsc arch_perfmon bts cpuid aperfmperf pni monitor est tm2 xtpr pdcm dtherm

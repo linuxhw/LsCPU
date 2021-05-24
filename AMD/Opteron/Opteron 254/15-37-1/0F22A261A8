@@ -1,0 +1,21 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 37
+Model name:            AMD Opteron(tm) Processor 254
+Stepping:              1
+CPU MHz:               2792.586
+BogoMIPS:              5585.40
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0,1
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt lm 3dnowext 3dnow rep_good nopl pni lahf_lm 3dnowprefetch vmmcall

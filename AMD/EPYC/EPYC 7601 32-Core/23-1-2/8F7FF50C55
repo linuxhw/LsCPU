@@ -1,0 +1,31 @@
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+Address sizes:       43 bits physical, 48 bits virtual
+CPU(s):              128
+On-line CPU(s) list: 0-127
+Thread(s) per core:  2
+Core(s) per socket:  32
+Socket(s):           2
+NUMA node(s):        8
+Vendor ID:           AuthenticAMD
+CPU family:          23
+Model:               1
+Model name:          AMD EPYC 7601 32-Core Processor
+Stepping:            2
+CPU MHz:             2195.730
+BogoMIPS:            4391.46
+Virtualization:      AMD-V
+L1d cache:           32K
+L1i cache:           64K
+L2 cache:            512K
+L3 cache:            8192K
+NUMA node0 CPU(s):   0,8,16,24,32,40,48,56,64,72,80,88,96,104,112,120
+NUMA node1 CPU(s):   2,10,18,26,34,42,50,58,66,74,82,90,98,106,114,122
+NUMA node2 CPU(s):   4,12,20,28,36,44,52,60,68,76,84,92,100,108,116,124
+NUMA node3 CPU(s):   6,14,22,30,38,46,54,62,70,78,86,94,102,110,118,126
+NUMA node4 CPU(s):   1,9,17,25,33,41,49,57,65,73,81,89,97,105,113,121
+NUMA node5 CPU(s):   3,11,19,27,35,43,51,59,67,75,83,91,99,107,115,123
+NUMA node6 CPU(s):   5,13,21,29,37,45,53,61,69,77,85,93,101,109,117,125
+NUMA node7 CPU(s):   7,15,23,31,39,47,55,63,71,79,87,95,103,111,119,127
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid amd_dcm aperfmperf pni pclmulqdq monitor ssse3 fma cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw skinit wdt tce topoext perfctr_core perfctr_nb bpext perfctr_l2 mwaitx cpb hw_pstate sme ssbd sev ibpb vmmcall fsgsbase bmi1 avx2 smep bmi2 rdseed adx smap clflushopt sha_ni xsaveopt xsavec xgetbv1 xsaves clzero irperf xsaveerptr arat npt lbrv svm_lock nrip_save tsc_scale vmcb_clean flushbyasid decodeassists pausefilter pfthreshold avic v_vmsave_vmload vgif overflow_recov succor smca

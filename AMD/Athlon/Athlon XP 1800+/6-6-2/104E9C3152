@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            6
+Model:                 6
+Model name:            AMD Athlon(tm) XP 1800+
+Stepping:              2
+CPU MHz:               1533.447
+BogoMIPS:              3066.89
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              256K

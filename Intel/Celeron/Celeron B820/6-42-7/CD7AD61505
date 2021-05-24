@@ -1,0 +1,22 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 42
+Model name:            Intel(R) Celeron(R) CPU B820 @ 1.70GHz
+Stepping:              7
+CPU MHz:               1249.699
+CPU max MHz:           1700,0000
+CPU min MHz:           800,0000
+BogoMIPS:              3392.11
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              2048K

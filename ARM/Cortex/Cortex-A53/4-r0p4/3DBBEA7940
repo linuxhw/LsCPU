@@ -1,0 +1,16 @@
+Architecture:         armv7l
+Byte Order:           Little Endian
+CPU(s):               4
+On-line CPU(s) list:  0,1
+Off-line CPU(s) list: 2,3
+Thread(s) per core:   1
+Core(s) per socket:   2
+Socket(s):            1
+Vendor ID:            ARM
+Model:                4
+Model name:           Cortex-A53
+Stepping:             r0p4
+CPU max MHz:          1248.0000
+CPU min MHz:          221.0000
+BogoMIPS:             40.91
+Flags:                half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm sha2

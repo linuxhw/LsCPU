@@ -1,0 +1,19 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 47
+Model name:            AMD Athlon(tm) 64 Processor 3500+
+Stepping:              0
+CPU MHz:               2211.331
+BogoMIPS:              4422.66
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt lm 3dnowext 3dnow rep_good cpuid pni lahf_lm 3dnowprefetch vmmcall

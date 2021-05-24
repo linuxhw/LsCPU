@@ -1,0 +1,20 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Pentium(R) D CPU 2.80GHz
+Stepping:              4
+CPU MHz:               2793.185
+BogoMIPS:              5586.37
+L1d cache:             16K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0,1
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc pebs bts nopl cpuid pni dtes64 monitor ds_cpl cid cx16 xtpr pti

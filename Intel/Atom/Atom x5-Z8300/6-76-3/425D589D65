@@ -1,0 +1,21 @@
+Architecture:        x86_64
+CPU op-mode(s):      32-bit, 64-bit
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+NUMA node(s):        1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               76
+Model name:          Intel(R) Atom(TM) x5-Z8300  CPU @ 1.44GHz
+Stepping:            3
+CPU MHz:             792.861
+CPU max MHz:         1840.0000
+CPU min MHz:         480.0000
+BogoMIPS:            2880.00
+Virtualization:      VT-x
+NUMA node0 CPU(s):   0-3
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx rdtscp lm constant_tsc arch_perfmon pebs bts rep_good nopl xtopology nonstop_tsc aperfmperf eagerfpu pni pclmulqdq dtes64 monitor ds_cpl vmx est tm2 ssse3 cx16 xtpr pdcm sse4_1 sse4_2 movbe popcnt tsc_deadline_timer aes rdrand lahf_lm 3dnowprefetch epb kaiser tpr_shadow vnmi flexpriority ept vpid tsc_adjust smep erms dtherm ida arat

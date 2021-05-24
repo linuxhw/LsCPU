@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            17
+Model:                 3
+Model name:            AMD Turion(tm) X2 Dual-Core Mobile RM-75
+Stepping:              1
+CPU MHz:               2200.000
+CPU max MHz:           2200,0000
+CPU min MHz:           550,0000
+BogoMIPS:              4400.03
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+NUMA node0 CPU(s):     0,1

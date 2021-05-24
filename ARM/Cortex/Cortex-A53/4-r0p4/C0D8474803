@@ -1,0 +1,20 @@
+Architecture:         armv8l
+CPU op-mode(s):       32-bit, 64-bit
+Byte Order:           Little Endian
+CPU(s):               8
+On-line CPU(s) list:  0,2,4,5
+Off-line CPU(s) list: 1,3,6,7
+Thread(s) per core:   1
+Core(s) per socket:   2
+Socket(s):            2
+Vendor ID:            ARM
+Model:                4
+Model name:           Cortex-A53
+Stepping:             r0p4
+CPU max MHz:          1401.0000
+CPU min MHz:          768.0000
+BogoMIPS:             38.00
+L1d cache:            128 KiB
+L1i cache:            128 KiB
+L2 cache:             2 MiB
+Flags:                half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt lpae evtstrm aes pmull sha1 sha2 crc32

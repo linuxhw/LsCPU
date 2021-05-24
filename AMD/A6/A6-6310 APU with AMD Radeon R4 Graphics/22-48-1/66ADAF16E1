@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            22
+Model:                 48
+Model name:            AMD A6-6310 APU with AMD Radeon R4 Graphics
+Stepping:              1
+CPU MHz:               1796.805
+BogoMIPS:              3593.26
+Hypervisor vendor:     Xen
+Virtualization type:   none
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              2048K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu de tsc msr pae mce cx8 apic mca cmov pat clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt lm constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid pni pclmulqdq ssse3 cx16 sse4_1 sse4_2 movbe popcnt aes xsave avx f16c rdrand hypervisor lahf_lm cmp_legacy abm sse4a misalignsse 3dnowprefetch bpext ssbd vmmcall bmi1 xsaveopt arat

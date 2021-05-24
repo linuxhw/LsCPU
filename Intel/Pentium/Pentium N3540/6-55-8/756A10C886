@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 55
+Model name:            Intel(R) Pentium(R) CPU  N3540  @ 2.16GHz
+Stepping:              8
+CPU MHz:               2209.369
+CPU max MHz:           2665,6000
+CPU min MHz:           499,8000
+BogoMIPS:              4326.40
+Virtualization:        VT-x
+L1d cache:             24K
+L1i cache:             32K
+L2 cache:              1024K

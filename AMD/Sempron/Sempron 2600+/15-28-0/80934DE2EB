@@ -1,0 +1,19 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 28
+Model name:            AMD Sempron(tm) Processor 2600+
+Stepping:              0
+CPU MHz:               1600.170
+BogoMIPS:              3200.34
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              128K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 syscall nx mmxext fxsr_opt 3dnowext 3dnow rep_good cpuid lahf_lm 3dnowprefetch vmmcall

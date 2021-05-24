@@ -1,0 +1,15 @@
+Architecture:        armv7l
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+Vendor ID:           ARM
+Model:               1
+Model name:          Cortex-A5
+Stepping:            r0p1
+CPU max MHz:         1824.0000
+CPU min MHz:         24.0000
+BogoMIPS:            3.27
+Flags:               swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4

@@ -1,0 +1,16 @@
+Architecture:         armv7l
+Byte Order:           Little Endian
+CPU(s):               4
+On-line CPU(s) list:  0,3
+Off-line CPU(s) list: 1,2
+Thread(s) per core:   1
+Core(s) per socket:   2
+Socket(s):            1
+Vendor ID:            Qualcomm
+Model:                1
+Model name:           Krait
+Stepping:             0x2
+CPU max MHz:          2457.6001
+CPU min MHz:          300.0000
+BogoMIPS:             38.00
+Flags:                swp half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32

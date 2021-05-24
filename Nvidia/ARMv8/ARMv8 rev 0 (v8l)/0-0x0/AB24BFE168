@@ -1,0 +1,19 @@
+Architecture:        aarch64
+Byte Order:          Little Endian
+CPU(s):              6
+On-line CPU(s) list: 0-5
+Thread(s) per core:  1
+Core(s) per socket:  2
+Socket(s):           3
+Vendor ID:           Nvidia
+Model:               0
+Model name:          ARMv8 Processor rev 0 (v8l)
+Stepping:            0x0
+CPU max MHz:         1907.2000
+CPU min MHz:         115.2000
+BogoMIPS:            62.50
+L1d cache:           64K
+L1i cache:           128K
+L2 cache:            2048K
+L3 cache:            4096K
+Flags:               fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp

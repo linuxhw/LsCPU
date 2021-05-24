@@ -1,0 +1,20 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            6
+Model:                 8
+Model name:            AMD Sempron(tm)   2800+
+Stepping:              1
+CPU MHz:               2004.000
+CPU max MHz:           2004,0000
+CPU min MHz:           1404,0000
+BogoMIPS:              3999.87
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              256K

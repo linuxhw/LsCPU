@@ -1,0 +1,13 @@
+Architecture:        armv6l
+Byte Order:          Little Endian
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+Vendor ID:           ARM
+Model:               7
+Model name:          ARM1176
+Stepping:            r0p7
+BogoMIPS:            697.34
+Flags:               half thumb fastmult vfp edsp java tls

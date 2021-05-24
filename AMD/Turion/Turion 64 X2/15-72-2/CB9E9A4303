@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 72
+Model name:            AMD Turion(tm) 64 X2
+Stepping:              2
+CPU MHz:               800.000
+CPU max MHz:           1800.0000
+CPU min MHz:           800.0000
+BogoMIPS:              1607.33
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K

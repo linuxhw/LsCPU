@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            6
+Model:                 10
+Model name:            mobile AMD Athlon(tm) XP-M 2200+
+Stepping:              0
+CPU MHz:               1658.450
+CPU max MHz:           1658.4500
+CPU min MHz:           663.3800
+BogoMIPS:              3316.92
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pat pse36 mmx fxsr sse syscall mp mmxext 3dnowext 3dnow cpuid 3dnowprefetch vmmcall

@@ -1,0 +1,23 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            20
+Model:                 1
+Model name:            AMD E-350 Processor
+Stepping:              0
+CPU MHz:               1600.000
+CPU max MHz:           1600,0000
+CPU min MHz:           800,0000
+BogoMIPS:              3193.48
+Virtualization:        AMD-V
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              512K
+NUMA node0 CPU(s):     0,1

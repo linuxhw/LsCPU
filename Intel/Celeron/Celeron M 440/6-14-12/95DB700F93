@@ -1,0 +1,16 @@
+Architecture:        i686
+CPU op-mode(s):      32-bit
+Byte Order:          Little Endian
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               14
+Model name:          Intel(R) Celeron(R) M CPU        440  @ 1.86GHz
+Stepping:            12
+CPU MHz:             1861.944
+BogoMIPS:            3723.88
+Flags:               fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov clflush dts acpi mmx fxsr sse sse2 ss tm pbe nx constant_tsc arch_perfmon bts aperfmperf eagerfpu pni monitor tm2 xtpr pdcm dtherm

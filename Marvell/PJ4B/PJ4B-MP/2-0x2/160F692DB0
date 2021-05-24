@@ -1,0 +1,15 @@
+Architecture:        armv7l
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+Vendor ID:           Marvell
+Model:               2
+Model name:          PJ4B-MP
+Stepping:            0x2
+CPU max MHz:         1333.0000
+CPU min MHz:         666.5000
+BogoMIPS:            50.00
+Flags:               half thumb fastmult vfp edsp thumbee vfpv3 tls idiva idivt vfpd32 lpae

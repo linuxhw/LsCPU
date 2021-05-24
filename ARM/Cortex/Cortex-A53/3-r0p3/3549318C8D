@@ -1,0 +1,16 @@
+Architecture:         aarch64
+CPU op-mode(s):       32-bit, 64-bit
+Byte Order:           Little Endian
+CPU(s):               6
+On-line CPU(s) list:  0-3
+Off-line CPU(s) list: 4,5
+Thread(s) per core:   1
+Core(s) per socket:   4
+Socket(s):            1
+Vendor ID:            ARM
+Model:                3
+Model name:           Cortex-A53
+Stepping:             r0p3
+CPU max MHz:          1440.0000
+CPU min MHz:          384.0000
+Flags:                fp asimd evtstrm aes pmull sha1 sha2 crc32

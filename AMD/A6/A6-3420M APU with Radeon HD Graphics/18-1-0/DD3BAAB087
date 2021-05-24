@@ -1,0 +1,24 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            18
+Model:                 1
+Model name:            AMD A6-3420M APU with Radeon(tm) HD Graphics
+Stepping:              0
+CPU MHz:               914.841
+CPU max MHz:           1500.0000
+CPU min MHz:           800.0000
+BogoMIPS:              2994.66
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0-3
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt pdpe1gb rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl nonstop_tsc cpuid extd_apicid aperfmperf pni monitor cx16 popcnt lahf_lm cmp_legacy svm extapic cr8_legacy abm sse4a misalignsse 3dnowprefetch osvw ibs skinit wdt cpb hw_pstate vmmcall arat npt lbrv svm_lock nrip_save pausefilter

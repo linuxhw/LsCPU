@@ -1,0 +1,33 @@
+Architecture:                    x86_64
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   36 bits physical, 48 bits virtual
+CPU(s):                          4
+On-line CPU(s) list:             0-3
+Thread(s) per core:              2
+Core(s) per socket:              2
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           54
+Model name:                      Intel(R) Atom(TM) CPU N2600   @ 1.60GHz
+Stepping:                        1
+CPU MHz:                         996.030
+CPU max MHz:                     1600.0000
+CPU min MHz:                     600.0000
+BogoMIPS:                        3191.73
+L1d cache:                       48 KiB
+L1i cache:                       64 KiB
+L2 cache:                        1 MiB
+NUMA node0 CPU(s):               0-3
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Not affected
+Vulnerability Spectre v2:        Not affected
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl nonstop_tsc cpuid aperfmperf pni dtes64 monitor ds_cpl est tm2 ssse3 cx16 xtpr pdcm movbe lahf_lm dtherm arat

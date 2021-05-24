@@ -1,0 +1,31 @@
+Architecture:                    i686
+CPU op-mode(s):                  32-bit, 64-bit
+Byte Order:                      Little Endian
+Address sizes:                   40 bits physical, 48 bits virtual
+CPU(s):                          2
+On-line CPU(s) list:             0,1
+Thread(s) per core:              1
+Core(s) per socket:              2
+Socket(s):                       1
+Vendor ID:                       AuthenticAMD
+CPU family:                      17
+Model:                           3
+Model name:                      AMD Turion(tm)X2 Dual Core Mobile RM-74
+Stepping:                        1
+CPU MHz:                         2200.000
+CPU max MHz:                     2200.0000
+CPU min MHz:                     550.0000
+BogoMIPS:                        4401.36
+Virtualization:                  AMD-V
+L1d cache:                       128 KiB
+L1i cache:                       128 KiB
+L2 cache:                        1 MiB
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, STIBP disabled, RSB filling
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow constant_tsc rep_good nonstop_tsc cpuid extd_apicid pni cx16 lahf_lm cmp_legacy svm extapic cr8_legacy 3dnowprefetch osvw skinit hw_pstate vmmcall lbrv svm_lock nrip_save

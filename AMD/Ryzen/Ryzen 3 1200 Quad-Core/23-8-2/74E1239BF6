@@ -1,0 +1,22 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    1
+Core(s) per socket:    4
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            23
+Model:                 8
+Model name:            AMD Ryzen 3 1200 Quad-Core Processor
+Stepping:              2
+CPU MHz:               1550.000
+CPU max MHz:           3100,0000
+CPU min MHz:           1550,0000
+BogoMIPS:              6176.76
+Virtualization:        AMD-V
+L1d cache:             32K
+L1i cache:             64K
+L2 cache:              512K
+L3 cache:              8192K

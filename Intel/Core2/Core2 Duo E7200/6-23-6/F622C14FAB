@@ -1,0 +1,22 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 23
+Model name:            Intel(R) Core(TM)2 Duo CPU     E7200  @ 2.53GHz
+Stepping:              6
+CPU MHz:               2527.000
+CPU max MHz:           2527,0000
+CPU min MHz:           1596,0000
+BogoMIPS:              5078.18
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              3072K
+NUMA node0 CPU(s):     0,1

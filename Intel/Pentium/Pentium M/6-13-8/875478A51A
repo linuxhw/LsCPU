@@ -1,0 +1,28 @@
+Architecture:                    i686
+CPU op-mode(s):                  32-bit
+Byte Order:                      Little Endian
+Address sizes:                   32 bits physical, 32 bits virtual
+CPU(s):                          1
+On-line CPU(s) list:             0
+Thread(s) per core:              1
+Core(s) per socket:              1
+Socket(s):                       1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           13
+Model name:                      Intel(R) Pentium(R) M processor 1.86GHz
+Stepping:                        8
+CPU MHz:                         1867.000
+CPU max MHz:                     1867.0000
+CPU min MHz:                     800.0000
+BogoMIPS:                        3726.40
+Vulnerability Itlb multihit:     KVM: Vulnerable
+Vulnerability L1tf:              Mitigation; PTE Inversion
+Vulnerability Mds:               Vulnerable: Clear CPU buffers attempted, no microcode; SMT disabled
+Vulnerability Meltdown:          Vulnerable
+Vulnerability Spec store bypass: Vulnerable
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, STIBP disabled, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov clflush dts acpi mmx fxsr sse sse2 ss tm pbe nx bts cpuid est tm2

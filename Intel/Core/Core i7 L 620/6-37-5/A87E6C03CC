@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 37
+Model name:            Intel(R) Core(TM) i7 CPU       L 620  @ 2.00GHz
+Stepping:              5
+CPU MHz:               2000.000
+CPU max MHz:           2000,0000
+CPU min MHz:           1199,0000
+BogoMIPS:              3990.21
+Virtualization:        VT-x

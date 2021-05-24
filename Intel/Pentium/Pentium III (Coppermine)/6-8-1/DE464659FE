@@ -1,0 +1,26 @@
+Architecture:                    i686
+CPU op-mode(s):                  32-bit
+Byte Order:                      Little Endian
+Address sizes:                   36 bits physical, 32 bits virtual
+CPU(s):                          1
+On-line CPU(s) list:             0
+Thread(s) per core:              1
+Core(s) per socket:              1
+Socket(s):                       1
+Vendor ID:                       GenuineIntel
+CPU family:                      6
+Model:                           8
+Model name:                      Pentium III (Coppermine)
+Stepping:                        1
+CPU MHz:                         735.964
+BogoMIPS:                        1471.92
+Vulnerability Itlb multihit:     KVM: Mitigation: VMX unsupported
+Vulnerability L1tf:              Mitigation; PTE Inversion
+Vulnerability Mds:               Vulnerable: Clear CPU buffers attempted, no microcode; SMT disabled
+Vulnerability Meltdown:          Mitigation; PTI
+Vulnerability Spec store bypass: Vulnerable
+Vulnerability Spectre v1:        Mitigation; usercopy/swapgs barriers and __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline, STIBP disabled, RSB filling
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pse36 mmx fxsr sse cpuid pti

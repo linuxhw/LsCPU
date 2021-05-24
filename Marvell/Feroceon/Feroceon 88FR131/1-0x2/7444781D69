@@ -1,0 +1,15 @@
+Architecture:        armv5tel
+Byte Order:          Little Endian
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+Vendor ID:           Marvell
+Model:               1
+Model name:          Feroceon 88FR131
+Stepping:            0x2
+CPU max MHz:         1000.0000
+CPU min MHz:         400.0000
+BogoMIPS:            400.00
+Flags:               swp half thumb fastmult edsp

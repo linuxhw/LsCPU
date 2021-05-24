@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            15
+Model:                 44
+Model name:            AMD Processor Model Unknown
+Stepping:              2
+CPU MHz:               1907.779
+BogoMIPS:              3815.55
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              256K

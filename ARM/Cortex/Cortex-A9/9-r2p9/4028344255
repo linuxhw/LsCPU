@@ -1,0 +1,15 @@
+Architecture:        armv7l
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           4
+Vendor ID:           ARM
+Model:               9
+Model name:          Cortex-A9
+Stepping:            r2p9
+CPU max MHz:         1300.0000
+CPU min MHz:         51.0000
+BogoMIPS:            1993.93
+Flags:               swp half thumb fastmult vfp edsp neon vfpv3 tls

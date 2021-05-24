@@ -1,0 +1,15 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 15
+Model name:            Intel(R) Celeron(R) M CPU        520  @ 1.60GHz
+Stepping:              6
+CPU MHz:               1595.977
+BogoMIPS:              3191.95

@@ -1,0 +1,24 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 58
+Model name:            Intel(R) Celeron(R) CPU 1005M @ 1.90GHz
+Stepping:              9
+CPU MHz:               1757.500
+CPU max MHz:           1900,0000
+CPU min MHz:           1200,0000
+BogoMIPS:              3791.39
+Virtualization:        VT-x
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              256K
+L3 cache:              2048K
+NUMA node0 CPU(s):     0,1

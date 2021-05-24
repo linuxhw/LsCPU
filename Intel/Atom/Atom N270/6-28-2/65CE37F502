@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 28
+Model name:            Intel(R) Atom(TM) CPU N270   @ 1.60GHz
+Stepping:              2
+CPU MHz:               863.354
+CPU max MHz:           1600.0000
+CPU min MHz:           800.0000
+BogoMIPS:              3192.24
+L1d cache:             24K
+L1i cache:             32K
+L2 cache:              512K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx constant_tsc arch_perfmon pebs bts cpuid aperfmperf pni dtes64 monitor ds_cpl est tm2 ssse3 xtpr pdcm movbe lahf_lm dtherm

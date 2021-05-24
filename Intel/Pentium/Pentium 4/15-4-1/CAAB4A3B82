@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Pentium(R) 4 CPU 3.00GHz
+Stepping:              1
+CPU MHz:               3299.660
+BogoMIPS:              6599.32
+L1d cache:             16K
+L2 cache:              1024K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe constant_tsc pebs bts cpuid pni dtes64 monitor ds_cpl cid xtpr pti

@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 15
+Model name:            Intel(R) Pentium(R) Dual  CPU  E2200  @ 2.20GHz
+Stepping:              13
+CPU MHz:               2200.000
+CPU max MHz:           2200,0000
+CPU min MHz:           1200,0000
+BogoMIPS:              4399.50
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              1024K
+Flags:                 fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe nx lm constant_tsc arch_perfmon pebs bts aperfmperf eagerfpu pni dtes64 monitor ds_cpl est tm2 ssse3 cx16 xtpr pdcm lahf_lm dtherm

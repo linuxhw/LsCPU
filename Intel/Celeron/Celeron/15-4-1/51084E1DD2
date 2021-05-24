@@ -1,0 +1,23 @@
+Architecture:                    i686
+CPU op-mode(s):                  32-bit
+Byte Order:                      Little Endian
+Address sizes:                   36 bits physical, 32 bits virtual
+CPU(s):                          1
+On-line CPU(s) list:             0
+Thread(s) per core:              1
+Core(s) per socket:              1
+Socket(s):                       1
+Vendor ID:                       GenuineIntel
+CPU family:                      15
+Model:                           4
+Model name:                      Intel(R) Celeron(R) CPU 2.80GHz
+Stepping:                        1
+CPU MHz:                         2792.996
+BogoMIPS:                        5585.99
+L1d cache:                       16 KiB
+L2 cache:                        256 KiB
+Vulnerability Meltdown:          Vulnerable
+Vulnerability Spec store bypass: Vulnerable
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Mitigation; Full generic retpoline
+Flags:                           fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush dts acpi mmx fxsr sse sse2 ss ht tm pbe constant_tsc pebs bts cpuid pni dtes64 monitor ds_cpl cid xtpr

@@ -1,0 +1,17 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            6
+Model:                 10
+Model name:            AMD Athlon(tm)
+Stepping:              0
+CPU MHz:               1100.000
+CPU max MHz:           1100,0000
+CPU min MHz:           550,0000
+BogoMIPS:              2204.87

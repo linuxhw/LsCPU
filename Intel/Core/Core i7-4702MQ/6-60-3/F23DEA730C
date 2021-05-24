@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                8
+On-line CPU(s) list:   0-7
+Thread(s) per core:    2
+Core(s) per socket:    4
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 60
+Model name:            Intel(R) Core(TM) i7-4702MQ CPU @ 2.20GHz
+Stepping:              3
+CPU MHz:               2563.601
+CPU max MHz:           3200,0000
+CPU min MHz:           800,0000
+BogoMIPS:              4390.08
+Virtualization:        VT-x

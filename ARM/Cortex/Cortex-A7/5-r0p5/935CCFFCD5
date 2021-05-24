@@ -1,0 +1,13 @@
+Architecture:        armv7l
+Byte Order:          Little Endian
+CPU(s):              4
+On-line CPU(s) list: 0-3
+Thread(s) per core:  1
+Core(s) per socket:  4
+Socket(s):           1
+Vendor ID:           ARM
+Model:               5
+Model name:          Cortex-A7
+Stepping:            r0p5
+BogoMIPS:            48.00
+Flags:               half thumb fastmult vfp edsp neon vfpv3 tls vfpv4 idiva idivt vfpd32 lpae evtstrm

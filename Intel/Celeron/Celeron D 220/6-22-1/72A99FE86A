@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                1
+On-line CPU(s) list:   0
+Thread(s) per core:    1
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 22
+Model name:            Intel(R) Celeron(R) D CPU        220  @ 1.20GHz
+Stepping:              1
+CPU MHz:               1500.271
+BogoMIPS:              3000.54
+L1d cache:             32K
+L1i cache:             32K
+L2 cache:              512K

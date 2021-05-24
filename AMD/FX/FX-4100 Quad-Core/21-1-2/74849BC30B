@@ -1,0 +1,18 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    2
+Socket(s):             1
+Vendor ID:             AuthenticAMD
+CPU family:            21
+Model:                 1
+Model name:            AMD FX(tm)-4100 Quad-Core Processor
+Stepping:              2
+CPU MHz:               1700.000
+CPU max MHz:           3600,0000
+CPU min MHz:           1400,0000
+BogoMIPS:              7214.18
+Virtualization:        AMD-V

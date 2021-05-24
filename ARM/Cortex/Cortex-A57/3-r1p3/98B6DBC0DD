@@ -1,0 +1,19 @@
+Architecture:         aarch64
+Byte Order:           Little Endian
+CPU(s):               6
+On-line CPU(s) list:  0,3-5
+Off-line CPU(s) list: 1,2
+Thread(s) per core:   1
+Core(s) per socket:   4
+Socket(s):            1
+Vendor ID:            ARM
+Model:                3
+Model name:           Cortex-A57
+Stepping:             r1p3
+CPU max MHz:          2035.2000
+CPU min MHz:          345.6000
+BogoMIPS:             62.50
+L1d cache:            128 KiB
+L1i cache:            192 KiB
+L2 cache:             2 MiB
+Flags:                fp asimd evtstrm aes pmull sha1 sha2 crc32

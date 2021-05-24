@@ -1,0 +1,19 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                4
+On-line CPU(s) list:   0-3
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             2
+NUMA node(s):          1
+Vendor ID:             GenuineIntel
+CPU family:            15
+Model:                 4
+Model name:            Intel(R) Xeon(TM) CPU 3.00GHz
+Stepping:              1
+CPU MHz:               2992.602
+BogoMIPS:              5984.77
+L1d cache:             16K
+L2 cache:              1024K
+NUMA node0 CPU(s):     0-3

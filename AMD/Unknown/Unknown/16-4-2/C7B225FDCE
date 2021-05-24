@@ -1,0 +1,21 @@
+Architecture:          x86_64
+CPU op-mode(s):        32-bit, 64-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    1
+Core(s) per socket:    2
+Socket(s):             1
+NUMA node(s):          1
+Vendor ID:             AuthenticAMD
+CPU family:            16
+Model:                 4
+Model name:            AMD Athlon(tm) 5000 Dual-Core Processor
+Stepping:              2
+CPU MHz:               2209.939
+BogoMIPS:              4419.87
+Virtualization:        AMD-V
+L1d cache:             64K
+L1i cache:             64K
+L2 cache:              512K
+NUMA node0 CPU(s):     0,1

@@ -1,0 +1,21 @@
+Architecture:          i686
+CPU op-mode(s):        32-bit
+Byte Order:            Little Endian
+CPU(s):                2
+On-line CPU(s) list:   0,1
+Thread(s) per core:    2
+Core(s) per socket:    1
+Socket(s):             1
+Vendor ID:             GenuineIntel
+CPU family:            6
+Model:                 28
+Model name:            Intel(R) Atom(TM) CPU Z520   @ 1.33GHz
+Stepping:              2
+CPU MHz:               800.000
+CPU max MHz:           1333,0000
+CPU min MHz:           800,0000
+BogoMIPS:              2659.94
+Virtualization:        VT-x
+L1d cache:             24K
+L1i cache:             32K
+L2 cache:              512K
