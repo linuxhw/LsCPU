@@ -10,7 +10,7 @@ by the [hw-probe](https://github.com/linuxhw/hw-probe) tool:
 
     sudo -E hw-probe -all -upload
 
-Total processor models: 2619.
+Total processor models: 2678.
 
 About
 -----
@@ -45,7 +45,6 @@ CPU Models
 | AMD       | Ryzen 9 3950X 16-Core          | 287456   | 32    | 32K  | 32K  | 512K  | 16384K | 6767    | AMD-V |
 | AMD       | EPYC 7601 32-Core              | 281024   | 64    | 32K  | 64K  | 512K  | 8192K  |         | AMD-V |
 | Intel     | Xeon Platinum 8180             | 280336   | 56    | 32K  | 32K  | 1024K | 39424K | 3800    | VT-x  |
-| AMD       | Ryzen 7 2700X Eight-Core       | 274656   | 32    | 32K  | 64K  | 512K  | 8192K  | 4300    | AMD-V |
 | Intel     | Xeon Platinum 8171M            | 270400   | 52    | 32K  | 32K  | 1024K | 36608K | 3800    | VT-x  |
 | AMD       | EPYC 7402P 24-Core             | 268752   | 48    | 32K  | 32K  | 512K  | 16384K | 2800    | AMD-V |
 | AMD       | Ryzen Threadripper 2950X 16... | 268736   | 32    | 32K  | 64K  | 512K  | 8192K  | 4150    | AMD-V |
@@ -70,7 +69,6 @@ CPU Models
 | AMD       | EPYC 7302 16-Core              | 192000   | 32    | 32K  | 32K  | 512K  | 16384K | 3000    | AMD-V |
 | AMD       | EPYC 7302P 16-Core             | 192000   | 32    | 32K  | 32K  | 512K  | 16384K | 3000    | AMD-V |
 | AMD       | EPYC 7401P 24-Core             | 191952   | 48    | 768K | 1.5M | 12M   | 64M    | 2000    | AMD-V |
-| AMD       | Ryzen 5 1600 Six-Core          | 189216   | 24    | 32K  | 64K  | 512K  | 8192K  | 3950    | AMD-V |
 | Intel     | Xeon Gold 6240                 | 187200   | 36    | 2.3M | 2.3M | 72M   | 99M    | 3900    | VT-x  |
 | Intel     | Core i9-7980XE                 | 187164   | 36    | 32K  | 32K  | 1024K | 25344K | 4400    | VT-x  |
 | Intel     | Core i9-9940X                  | 184800   | 28    | 32K  | 32K  | 1024K | 19712K | 4500    | VT-x  |
@@ -87,12 +85,10 @@ CPU Models
 | Intel     | Xeon Gold 6139                 | 165600   | 36    | 32K  | 32K  | 1024K | 25344K | 3700    | VT-x  |
 | Intel     | Xeon E5-2696 v3                | 165204   | 36    | 32K  | 32K  | 256K  | 46080K | 3800    | VT-x  |
 | Intel     | Xeon E5-2699 v3                | 165204   | 36    | 32K  | 32K  | 256K  | 46080K | 3600    | VT-x  |
-| AMD       | FX-9590 Eight-Core             | 160528   | 16    | 16K  | 64K  | 2048K | 8192K  | 5000    | AMD-V |
 | Intel     | Xeon Gold 5220                 | 158436   | 36    | 32K  | 32K  | 1024K | 25344K | 3900    | VT-x  |
 | AMD       | Ryzen 9 3900 12-Core           | 158400   | 24    | 32K  | 32K  | 512K  | 16384K | 3300    | AMD-V |
 | AMD       | EPYC 7351P 16-Core             | 153280   | 32    | 32K  | 64K  | 512K  | 8192K  | 2400    | AMD-V |
 | Intel     | Xeon E5-2695 v4                | 151164   | 36    | 576K | 576K | 4.5M  | 45M    | 3300    | VT-x  |
-| AMD       | FX-8350 Eight-Core             | 149552   | 16    | 16K  | 64K  | 2048K | 8192K  | 4600    | AMD-V |
 | Intel     | Core i9-10900K                 | 148040   | 20    | 32K  | 32K  | 256K  | 20480K | 5300    | VT-x  |
 | Intel     | Core i9-10900KF                | 148040   | 20    | 320K | 320K | 2.5M  | 20M    | 5400    | VT-x  |
 | Intel     | Core i9-10900X                 | 148000   | 20    | 32K  | 32K  | 1024K | 19712K | 4800    | VT-x  |
@@ -111,16 +107,14 @@ CPU Models
 | Intel     | Core i9-9900X                  | 140000   | 20    | 32K  | 32K  | 1024K | 19712K | 4500    | VT-x  |
 | Intel     | Xeon W-2175                    | 139972   | 28    | 448K | 448K | 14M   | 19.3M  | 4300    | VT-x  |
 | Intel     | Core i9-7920X                  | 139200   | 24    | 32K  | 32K  | 1024K | 16896K | 4700    | VT-x  |
-| AMD       | FX-8320 Eight-Core             | 138064   | 16    | 16K  | 64K  | 2048K | 8192K  | 4300    | AMD-V |
 | AMD       | Ryzen 7 3700X 8-Core           | 137648   | 16    | 32K  | 32K  | 512K  | 16384K | 6022    | AMD-V |
 | AMD       | Ryzen 7 PRO 4750G with Rade... | 137584   | 16    | 256K | 256K | 4M    | 8M     | 4454    | AMD-V |
-| AMD       | FX-8120 Eight-Core             | 134912   | 16    | 16K  | 64K  | 2048K | 8192K  | 4200    | AMD-V |
+| AMD       | Ryzen 7 2700X Eight-Core       | 137328   | 16    | 32K  | 64K  | 512K  | 8192K  | 4300    | AMD-V |
 | AMD       | Ryzen 7 PRO 3700 8-Core        | 134448   | 16    | 256K | 256K | 4M    | 32M    | 6094    | AMD-V |
 | Intel     | Xeon Gold 6130                 | 134432   | 32    | 32K  | 32K  | 1024K | 22528K | 3700    | VT-x  |
 | Intel     | Xeon Silver 4216               | 134432   | 32    | 32K  | 32K  | 1024K | 22528K | 3200    | VT-x  |
 | Intel     | Xeon E5-2680 v4                | 134428   | 28    | 32K  | 32K  | 256K  | 35840K | 3300    | VT-x  |
 | AMD       | Ryzen 7 3800XT 8-Core          | 134400   | 16    | 256K | 256K | 4M    | 32M    | 5575    | AMD-V |
-| AMD       | FX-8150 Eight-Core             | 134064   | 16    | 16K  | 64K  | 2048K | 8192K  | 3800    | AMD-V |
 | Intel     | Core i9-7900X                  | 132000   | 20    | 32K  | 32K  | 1024K | 14080K | 4500    | VT-x  |
 | Intel     | Xeon W-2155                    | 132000   | 20    | 32K  | 32K  | 1024K | 14080K | 4500    | VT-x  |
 | AMD       | Ryzen 7 2700 Eight-Core        | 131184   | 16    | 32K  | 64K  | 512K  | 8192K  | 4100    | AMD-V |
@@ -131,6 +125,7 @@ CPU Models
 | Intel     | Core i9-9900KS                 | 128048   | 16    | 32K  | 32K  | 256K  | 16384K | 5000    | VT-x  |
 | Intel     | Xeon W-1290                    | 128000   | 20    | 32K  | 32K  | 256K  | 20480K | 5200    | VT-x  |
 | AMD       | Ryzen 7 1700X Eight-Core       | 127984   | 16    | 32K  | 64K  | 512K  | 8192K  | 4000    | AMD-V |
+| AMD       | Ryzen 5 1600 Six-Core          | 126144   | 16    | 32K  | 64K  | 512K  | 8192K  | 3950    | AMD-V |
 | Intel     | Xeon E5-2680 v3                | 125976   | 24    | 32K  | 32K  | 256K  | 30720K | 3300    | VT-x  |
 | AMD       | Ryzen 7 1700 Eight-Core        | 125408   | 16    | 32K  | 64K  | 512K  | 8192K  | 3925    | AMD-V |
 | Intel     | Xeon E5-2690 v3                | 124824   | 24    | 32K  | 32K  | 256K  | 30720K | 3500    | VT-x  |
@@ -158,7 +153,6 @@ CPU Models
 | Intel     | Xeon E5-2676 v3                | 115176   | 24    | 384K | 384K | 3M    | 30M    | 3000    | VT-x  |
 | AMD       | Ryzen 7 4700G with Radeon G... | 115024   | 16    | 32K  | 32K  | 512K  | 4096K  | 3600    | AMD-V |
 | Intel     | Xeon Platinum 8260             | 114912   | 24    | 32K  | 32K  | 1024K | 36608K | 2400    | VT-x  |
-| AMD       | FX-6350 Six-Core               | 113400   | 12    | 16K  | 64K  | 2048K | 8192K  | 4500    | AMD-V |
 | Intel     | Core i7 X 990                  | 112572   | 12    | 32K  | 32K  | 256K  | 12288K | 3468    | VT-x  |
 | Intel     | Core i9-11900K                 | 112128   | 16    | 384K | 256K | 4M    | 16M    | 5300    | VT-x  |
 | Intel     | Xeon E5-2680 v2                | 112100   | 20    | 32K  | 32K  | 256K  | 25600K | 3600    | VT-x  |
@@ -169,7 +163,6 @@ CPU Models
 | Intel     | Xeon Gold 6144                 | 112000   | 16    | 256K | 256K | 8M    | 24.8M  | 4200    | VT-x  |
 | Intel     | Core i9-10900F                 | 111980   | 20    | 320K | 320K | 2.5M  | 20M    | 5200    | VT-x  |
 | Intel     | Xeon E5-2683 v3                | 111748   | 28    | 448K | 448K | 3.5M  | 35M    | 3000    | VT-x  |
-| AMD       | FX-6300 Six-Core               | 110892   | 12    | 16K  | 64K  | 2048K | 8192K  | 4400    | AMD-V |
 | Intel     | Xeon Gold 5118                 | 110424   | 24    | 32K  | 32K  | 1024K | 16896K | 3200    | VT-x  |
 | Intel     | Xeon E5-2670 v3                | 110400   | 24    | 32K  | 32K  | 256K  | 30720K | 3100    | VT-x  |
 | Intel     | Xeon E5-2687W v2               | 108864   | 16    | 32K  | 32K  | 256K  | 25600K | 3400    | VT-x  |
@@ -212,7 +205,6 @@ CPU Models
 | Intel     | Core i7-4930K                  | 98988    | 12    | 32K  | 32K  | 256K  | 12288K | 25500   | VT-x  |
 | Intel     | Core i7-5820K                  | 98988    | 12    | 32K  | 32K  | 256K  | 15360K | 4500    | VT-x  |
 | Intel     | Xeon E5-2687W 0                | 98976    | 16    | 32K  | 32K  | 256K  | 20480K | 3800    | VT-x  |
-| AMD       | FX-6100 Six-Core               | 98724    | 12    | 16K  | 64K  | 2048K | 8192K  | 3900    | AMD-V |
 | Intel     | Core i5-10600K                 | 98436    | 12    | 32K  | 32K  | 256K  | 12288K | 12000   | VT-x  |
 | Intel     | Core i5-10600KF                | 98388    | 12    | 192K | 192K | 1.5M  | 12M    | 4800    | VT-x  |
 | Intel     | Core i7-3930K                  | 97092    | 12    | 32K  | 32K  | 256K  | 12288K | 5700    | VT-x  |
@@ -279,6 +271,7 @@ CPU Models
 | Intel     | Xeon E-2236                    | 81588    | 12    | 32K  | 32K  | 256K  | 12288K | 4800    | VT-x  |
 | AMD       | Ryzen 5 PRO 2600 Six-Core      | 81432    | 12    | 32K  | 64K  | 512K  | 8192K  | 3400    | AMD-V |
 | Intel     | Core i7 980                    | 81072    | 12    | 32K  | 32K  | 256K  | 12288K | 3334    | VT-x  |
+| AMD       | FX-9590 Eight-Core             | 80264    | 8     | 16K  | 64K  | 2048K | 8192K  | 5000    | AMD-V |
 | Intel     | Xeon X5680                     | 80196    | 12    | 32K  | 32K  | 256K  | 12288K | 3458    | VT-x  |
 | Intel     | Xeon W3680                     | 80172    | 12    | 32K  | 32K  | 256K  | 12288K | 3458    | VT-x  |
 | Intel     | Xeon E5-4620 v3                | 80000    | 20    | 640K | 640K | 5M    | 50M    | 2600    | VT-x  |
@@ -311,25 +304,21 @@ CPU Models
 | Intel     | Xeon E5-2630 v3                | 76800    | 16    | 32K  | 32K  | 256K  | 20480K | 3200    | VT-x  |
 | Intel     | Core i9-10900T                 | 76000    | 20    | 320K | 320K | 2.5M  | 20M    | 4600    | VT-x  |
 | Intel     | Core i9-10900T                 | 75980    | 20    | 32K  | 32K  | 256K  | 20480K | 4500    | VT-x  |
-| AMD       | FX-4170 Quad-Core              | 75576    | 8     | 16K  | 64K  | 2048K | 8192K  | 4200    | AMD-V |
+| AMD       | FX-8350 Eight-Core             | 74776    | 8     | 16K  | 64K  | 2048K | 8192K  | 4600    | AMD-V |
 | Intel     | Core i5-10500                  | 74424    | 12    | 32K  | 32K  | 256K  | 12288K | 4500    | VT-x  |
 | Intel     | Core i7-4820K                  | 73992    | 8     | 32K  | 32K  | 256K  | 10240K | 25500   | VT-x  |
 | Intel     | Core i9-9880H                  | 73728    | 16    | 32K  | 32K  | 256K  | 16384K | 4800    | VT-x  |
 | AMD       | Opteron 6376                   | 73616    | 16    | 16K  | 64K  | 2048K | 6144K  | 2300    | AMD-V |
 | Intel     | Core i7-10875H                 | 73616    | 16    | 32K  | 32K  | 256K  | 16384K | 5100    | VT-x  |
 | Intel     | Core i9-10880H                 | 73584    | 16    | 256K | 256K | 2M    | 16M    | 5100    | VT-x  |
-| AMD       | FX-4350 Quad-Core              | 72824    | 8     | 16K  | 64K  | 2048K | 8192K  | 4200    | AMD-V |
 | Intel     | Core i7-3820                   | 72792    | 8     | 32K  | 32K  | 256K  | 10240K | 25500   | VT-x  |
 | Intel     | Xeon E5-2690 v4                | 72632    | 14    | 32K  | 32K  | 256K  | 35840K | 2600    | VT-x  |
 | AMD       | FX-8370E Eight-Core            | 72584    | 8     | 16K  | 64K  | 2048K | 8192K  | 4300    | AMD-V |
 | Intel     | Xeon X7560                     | 72448    | 16    | 32K  | 32K  | 256K  | 24576K | 2266    | VT-x  |
 | AMD       | FX-8320E Eight-Core            | 72032    | 8     | 16K  | 64K  | 2048K | 8192K  | 4000    | AMD-V |
 | Intel     | Core i7-4790K                  | 72024    | 8     | 32K  | 32K  | 256K  | 8192K  | 4800    | VT-x  |
-| AMD       | A10-7860K Radeon R7, 12 Com... | 72000    | 8     | 16K  | 96K  | 2048K |        | 4500    | AMD-V |
 | AMD       | Ryzen 5 4600H with Radeon G... | 72000    | 12    | 192K | 192K | 3M    | 8M     | 3000    | AMD-V |
 | AMD       | Ryzen 5 4600HS with Radeon ... | 71868    | 12    | 192K | 192K | 3M    | 8M     | 3000    | AMD-V |
-| AMD       | FX-4300 Quad-Core              | 71064    | 8     | 16K  | 64K  | 2048K | 4096K  | 4500    | AMD-V |
-| AMD       | A10-6800K APU with Radeon H... | 70744    | 8     | 16K  | 64K  | 2048K |        | 4400    | AMD-V |
 | Intel     | Xeon E5-2660 0                 | 70704    | 16    | 32K  | 32K  | 256K  | 20480K | 3000    | VT-x  |
 | AMD       | FX-8300 Eight-Core             | 70664    | 8     | 16K  | 64K  | 2048K | 8192K  | 4400    | AMD-V |
 | Intel     | Xeon E5-4620 0                 | 70448    | 16    | 32K  | 32K  | 256K  | 16384K | 2600    | VT-x  |
@@ -337,7 +326,6 @@ CPU Models
 | Intel     | Xeon X5670                     | 70392    | 12    | 32K  | 32K  | 256K  | 12288K |         | VT-x  |
 | Intel     | Core i7-10870H                 | 70384    | 16    | 256K | 256K | 2M    | 16M    | 5000    | VT-x  |
 | Intel     | Core i7-4770K                  | 70384    | 8     | 32K  | 32K  | 256K  | 8192K  | 4600    | VT-x  |
-| AMD       | A8-6600K APU with Radeon HD... | 70216    | 8     | 16K  | 64K  | 2048K |        | 4400    | AMD-V |
 | Intel     | Core i9-8950HK                 | 69696    | 12    | 32K  | 32K  | 256K  | 12288K | 8300    | VT-x  |
 | Intel     | Xeon E-2186M                   | 69696    | 12    | 32K  | 32K  | 256K  | 12288K | 4800    | VT-x  |
 | Intel     | Core i5-10400                  | 69624    | 12    | 32K  | 32K  | 256K  | 12288K | 4300    | VT-x  |
@@ -345,15 +333,12 @@ CPU Models
 | Intel     | Core i5-10400                  | 69588    | 12    | 32K  | 32K  | 256K  | 12288K | 4300    | VT-x  |
 | Intel     | Core i5-10400F                 | 69588    | 12    | 192K | 192K | 1.5M  | 12M    | 4300    | VT-x  |
 | Intel     | Xeon E5-2667 0                 | 69552    | 12    | 32K  | 32K  | 256K  | 15360K | 3500    | VT-x  |
-| AMD       | FX-4330 Quad-Core              | 69376    | 8     | 16K  | 64K  | 2048K | 8192K  | 4000    | AMD-V |
 | AMD       | FX-8370 Eight-Core             | 69352    | 8     | 16K  | 64K  | 2048K | 8192K  | 4000    | AMD-V |
-| AMD       | A10-5800K APU with Radeon H... | 69168    | 8     | 16K  | 64K  | 2048K |        | 4300    | AMD-V |
-| AMD       | A8-5600K APU with Radeon HD... | 69144    | 8     | 16K  | 64K  | 2048K |        | 4300    | AMD-V |
-| AMD       | Athlon X4 860K Quad Core       | 69000    | 8     | 16K  | 96K  | 2048K |        | 4400    | AMD-V |
+| AMD       | FX-8320 Eight-Core             | 69032    | 8     | 16K  | 64K  | 2048K | 8192K  | 4300    | AMD-V |
 | Intel     | Core i7-7740X                  | 68792    | 8     | 32K  | 32K  | 256K  | 8192K  | 4700    | VT-x  |
-| AMD       | Athlon X4 760K Quad Core       | 68680    | 8     | 16K  | 64K  | 2048K |        | 4300    | AMD-V |
 | Intel     | Xeon E5-2650L v2               | 68000    | 20    | 640K | 640K | 5M    | 50M    | 2100    | VT-x  |
 | AMD       | Ryzen 3 3100 4-Core            | 67472    | 8     | 32K  | 32K  | 512K  | 8192K  | 4137    | AMD-V |
+| AMD       | FX-8120 Eight-Core             | 67456    | 8     | 16K  | 64K  | 2048K | 8192K  | 4200    | AMD-V |
 | Intel     | Core i7-7700K                  | 67232    | 8     | 32K  | 32K  | 256K  | 8192K  | 5100    | VT-x  |
 | Intel     | Xeon E5-2620 v4                | 67216    | 16    | 32K  | 32K  | 256K  | 20480K | 3000    | VT-x  |
 | Intel     | Xeon Silver 4110               | 67216    | 16    | 32K  | 32K  | 1024K | 11264K | 3000    | VT-x  |
@@ -365,11 +350,10 @@ CPU Models
 | Intel     | Xeon E-2276M                   | 67188    | 12    | 32K  | 32K  | 256K  | 12288K | 4700    | VT-x  |
 | Intel     | Xeon W-10855M                  | 67188    | 12    | 192K | 192K | 1.5M  | 12M    | 5100    | VT-x  |
 | Intel     | Core i9-9900T                  | 67184    | 16    | 32K  | 32K  | 256K  | 16384K | 4400    | VT-x  |
-| AMD       | FX-4100 Quad-Core              | 66456    | 8     | 16K  | 64K  | 2048K | 8192K  | 3600    | AMD-V |
+| AMD       | FX-8150 Eight-Core             | 67032    | 8     | 16K  | 64K  | 2048K | 8192K  | 3800    | AMD-V |
 | AMD       | Ryzen 5 3400G with Radeon V... | 66400    | 8     | 32K  | 64K  | 512K  | 4096K  | 4150    | AMD-V |
 | AMD       | Ryzen 5 PRO 3400G with Rade... | 65600    | 8     | 32K  | 64K  | 512K  | 4096K  | 4100    | AMD-V |
 | Intel     | Xeon W-2225                    | 65592    | 8     | 32K  | 32K  | 1024K | 8448K  | 4600    | VT-x  |
-| AMD       | Athlon X4 750K Quad Core       | 65480    | 8     | 16K  | 64K  | 2048K |        | 4100    | AMD-V |
 | AMD       | Ryzen 5 2400G with Radeon V... | 65472    | 8     | 32K  | 64K  | 512K  | 4096K  | 4100    | AMD-V |
 | Intel     | Core i7 870                    | 65128    | 8     | 32K  | 32K  | 256K  | 8192K  | 2934    | VT-x  |
 | Intel     | Xeon E-2176M                   | 65088    | 12    | 32K  | 32K  | 256K  | 12288K | 4400    | VT-x  |
@@ -441,6 +425,7 @@ CPU Models
 | Intel     | Xeon E3-1280 V2                | 57464    | 8     | 32K  | 32K  | 256K  | 8192K  | 4000    | VT-x  |
 | Intel     | Xeon E5-2450L 0                | 57456    | 16    | 32K  | 32K  | 256K  | 20480K | 2300    | VT-x  |
 | Intel     | Core i7-2600K                  | 57112    | 8     | 32K  | 32K  | 256K  | 8192K  | 6300    | VT-x  |
+| AMD       | FX-6350 Six-Core               | 56700    | 6     | 16K  | 64K  | 2048K | 8192K  | 4500    | AMD-V |
 | Intel     | Core i7-2600                   | 56688    | 8     | 32K  | 32K  | 256K  | 8192K  | 6300    | VT-x  |
 | AMD       | Opteron 6328                   | 56312    | 8     | 16K  | 64K  | 2048K | 6144K  | 3200    | AMD-V |
 | Intel     | Xeon E3-1240 V2                | 56304    | 8     | 32K  | 32K  | 256K  | 8192K  | 3800    | VT-x  |
@@ -465,6 +450,7 @@ CPU Models
 | Intel     | Xeon E3-1270 v3                | 55872    | 8     | 32K  | 32K  | 256K  | 8192K  | 3900    | VT-x  |
 | Intel     | Xeon E3-1231 v3                | 55496    | 8     | 32K  | 32K  | 256K  | 8192K  | 3800    | VT-x  |
 | Intel     | Xeon X5677                     | 55472    | 8     | 32K  | 32K  | 256K  | 12288K | 3459    | VT-x  |
+| AMD       | FX-6300 Six-Core               | 55446    | 6     | 16K  | 64K  | 2048K | 8192K  | 4400    | AMD-V |
 | Intel     | Xeon E5-2630 0                 | 55320    | 12    | 32K  | 32K  | 256K  | 15360K | 2800    | VT-x  |
 | AMD       | Opteron 6176                   | 55212    | 12    | 64K  | 64K  | 512K  | 5118K  | 2300    | AMD-V |
 | Intel     | Core i5-10500T                 | 55212    | 12    | 32K  | 32K  | 256K  | 12288K | 3800    | VT-x  |
@@ -518,7 +504,6 @@ CPU Models
 | Intel     | Core i7-4770R                  | 51112    | 8     | 32K  | 32K  | 256K  | 6144K  | 3900    | VT-x  |
 | AMD       | Ryzen 5 PRO 2400GE w_ Radeo... | 51104    | 8     | 32K  | 64K  | 512K  | 4096K  | 3200    | AMD-V |
 | Intel     | Core i7-3770S                  | 51104    | 8     | 32K  | 32K  | 256K  | 8192K  | 4200    | VT-x  |
-| AMD       | A8-7600 Radeon R7, 10 Compu... | 51088    | 8     | 16K  | 96K  | 2048K |        | 3100    | AMD-V |
 | Intel     | Core i7-3940XM                 | 51080    | 8     | 32K  | 32K  | 256K  | 8192K  | 3900    | VT-x  |
 | Intel     | Xeon E5-2620 v2                | 50592    | 12    | 32K  | 32K  | 256K  | 15360K | 2600    | VT-x  |
 | AMD       | Opteron 6172                   | 50400    | 12    | 64K  | 64K  | 512K  | 5118K  | 2100    | AMD-V |
@@ -535,6 +520,7 @@ CPU Models
 | Intel     | Xeon E3-1535M v6               | 49592    | 8     | 32K  | 32K  | 256K  | 8192K  | 4200    | VT-x  |
 | Intel     | Core i7-3920XM                 | 49480    | 8     | 32K  | 32K  | 256K  | 8192K  | 3800    | VT-x  |
 | AMD       | FX-6200 Six-Core               | 49410    | 6     | 16K  | 64K  | 2048K | 8192K  | 4100    | AMD-V |
+| AMD       | FX-6100 Six-Core               | 49362    | 6     | 16K  | 64K  | 2048K | 8192K  | 3900    | AMD-V |
 | Intel     | Xeon W3550                     | 49088    | 8     | 32K  | 32K  | 256K  | 8192K  | 3060    | VT-x  |
 | Intel     | Core i7 860                    | 48720    | 8     | 32K  | 32K  | 256K  | 8192K  | 2933    | VT-x  |
 | Intel     | Core i7-9700                   | 48016    | 8     | 32K  | 32K  | 256K  | 12288K | 4700    | VT-x  |
@@ -592,7 +578,6 @@ CPU Models
 | Intel     | Core i7-4790T                  | 43192    | 8     | 128K | 128K | 1M    | 8M     | 3900    | VT-x  |
 | Intel     | Core i7-3820QM                 | 43136    | 8     | 32K  | 32K  | 256K  | 8192K  | 3700    | VT-x  |
 | Intel     | Core i7-4800MQ                 | 43128    | 8     | 32K  | 32K  | 256K  | 6144K  | 3700    | VT-x  |
-| AMD       | FX-7600P Radeon R7, 12 Comp... | 43120    | 8     | 16K  | 64K  | 2048K |        | 2700    | AMD-V |
 | Intel     | Core i7-3740QM                 | 43120    | 8     | 32K  | 32K  | 256K  | 6144K  | 4100    | VT-x  |
 | Intel     | Core i7-5700HQ                 | 43120    | 8     | 32K  | 32K  | 256K  | 6144K  | 3500    | VT-x  |
 | Intel     | Core i7-2960XM                 | 43096    | 8     | 32K  | 32K  | 256K  | 8192K  | 3700    | VT-x  |
@@ -655,6 +640,7 @@ CPU Models
 | Intel     | Core i7-3635QM                 | 38328    | 8     | 32K  | 32K  | 256K  | 6144K  | 3400    | VT-x  |
 | Intel     | Core i7-4860HQ                 | 38320    | 8     | 128K | 128K | 1M    | 6M     | 3600    | VT-x  |
 | Intel     | Xeon E31260L                   | 38312    | 8     | 32K  | 32K  | 256K  | 8192K  | 3300    | VT-x  |
+| AMD       | FX-4170 Quad-Core              | 37788    | 4     | 16K  | 64K  | 2048K | 8192K  | 4200    | AMD-V |
 | AMD       | Athlon II X4 631 Quad-Core     | 37520    | 4     | 64K  | 64K  | 1024K |        | 4700    | AMD-V |
 | Intel     | Core i5-8600                   | 37194    | 6     | 32K  | 32K  | 256K  | 9216K  | 4300    | VT-x  |
 | Intel     | Core i5-9600                   | 37194    | 6     | 192K | 192K | 1.5M  | 9M     | 4600    | VT-x  |
@@ -668,7 +654,6 @@ CPU Models
 | AMD       | Ryzen 7 3700U with Radeon V... | 36792    | 8     | 32K  | 64K  | 512K  | 4096K  | 2300    | AMD-V |
 | Intel     | Core i7-2820QM                 | 36792    | 8     | 32K  | 32K  | 256K  | 8192K  | 3400    | VT-x  |
 | Intel     | Core i7-4712MQ                 | 36784    | 8     | 32K  | 32K  | 256K  | 6144K  | 3300    | VT-x  |
-| AMD       | A10-4600M APU with Radeon H... | 36744    | 8     | 16K  | 64K  | 2048K |        | 2300    | AMD-V |
 | AMD       | Ryzen 7 3750H with Radeon V... | 36744    | 8     | 128K | 256K | 2M    | 4M     | 2300    | AMD-V |
 | AMD       | Ryzen 7 PRO 3700U w_ Radeon... | 36744    | 8     | 32K  | 64K  | 512K  | 4096K  | 2300    | AMD-V |
 | Intel     | Core i7-3610QM                 | 36744    | 8     | 32K  | 32K  | 256K  | 6144K  | 3300    | VT-x  |
@@ -677,6 +662,7 @@ CPU Models
 | Intel     | Core i7-3615QM                 | 36720    | 8     | 32K  | 32K  | 256K  | 6144K  | 3300    | VT-x  |
 | Intel     | Core i7-3610QE                 | 36712    | 8     | 32K  | 32K  | 256K  | 6144K  | 3300    | VT-x  |
 | AMD       | Phenom II X6 1065T             | 36642    | 6     | 64K  | 64K  | 512K  | 6144K  | 2900    | AMD-V |
+| AMD       | FX-4350 Quad-Core              | 36412    | 4     | 16K  | 64K  | 2048K | 8192K  | 4200    | AMD-V |
 | Intel     | Xeon L5520                     | 36352    | 8     | 32K  | 32K  | 256K  | 8192K  | 2266    | VT-x  |
 | AMD       | Phenom II X6 1035T             | 36312    | 6     | 64K  | 64K  | 512K  | 6144K  | 2600    | AMD-V |
 | Intel     | Xeon E5520                     | 36264    | 8     | 32K  | 32K  | 256K  | 8192K  | 2268    | VT-x  |
@@ -684,9 +670,12 @@ CPU Models
 | AMD       | Six-Core                       | 36162    | 6     | 384K | 384K | 3M    | 6M     | 3000    | AMD-V |
 | Intel     | Core i5-8500                   | 36036    | 6     | 32K  | 32K  | 256K  | 9216K  | 4100    | VT-x  |
 | Intel     | Core i5-9500                   | 36012    | 6     | 32K  | 32K  | 256K  | 9216K  | 4400    | VT-x  |
+| AMD       | A10-7860K Radeon R7, 12 Com... | 36000    | 4     | 16K  | 96K  | 2048K |        | 4500    | AMD-V |
 | Intel     | Core i5-8500B                  | 36000    | 6     | 192K | 192K | 1.5M  | 9M     | 4100    | VT-x  |
 | Intel     | Core i5-9500E                  | 36000    | 6     | 32K  | 32K  | 256K  | 9216K  | 3000    | VT-x  |
+| AMD       | FX-4300 Quad-Core              | 35532    | 4     | 16K  | 64K  | 2048K | 4096K  | 4500    | AMD-V |
 | AMD       | A10-7870K Radeon R7, 12 Com... | 35472    | 4     | 16K  | 96K  | 2048K |        | 4100    | AMD-V |
+| AMD       | A10-6800K APU with Radeon H... | 35372    | 4     | 16K  | 64K  | 2048K |        | 4400    | AMD-V |
 | Intel     | Core i7-2720QM                 | 35208    | 8     | 32K  | 32K  | 256K  | 6144K  | 3300    | VT-x  |
 | Intel     | Xeon X5470                     | 35200    | 4     | 32K  | 32K  | 6144K |        | 3336    | VT-x  |
 | Intel     | Core i7-2675QM                 | 35200    | 8     | 32K  | 32K  | 256K  | 6144K  | 3100    | VT-x  |
@@ -700,6 +689,7 @@ CPU Models
 | Intel     | Core i7-4702HQ                 | 35128    | 8     | 32K  | 32K  | 256K  | 6144K  | 3200    | VT-x  |
 | Intel     | Core i7-4770HQ                 | 35128    | 8     | 32K  | 32K  | 256K  | 6144K  | 3400    | VT-x  |
 | Intel     | Core i7-4785T                  | 35120    | 8     | 32K  | 32K  | 256K  | 8192K  | 3200    | VT-x  |
+| AMD       | A8-6600K APU with Radeon HD... | 35108    | 4     | 16K  | 64K  | 2048K |        | 4400    | AMD-V |
 | AMD       | A10-7850K Radeon R7, 12 Com... | 34956    | 4     | 16K  | 96K  | 2048K |        | 4300    | AMD-V |
 | Intel     | Core i5-9400                   | 34860    | 6     | 32K  | 32K  | 256K  | 9216K  | 4100    | VT-x  |
 | Intel     | Core i5-9400F                  | 34860    | 6     | 32K  | 32K  | 256K  | 9216K  | 4100    | VT-x  |
@@ -707,7 +697,12 @@ CPU Models
 | Intel     | Core i5-9400F                  | 34812    | 6     | 32K  | 32K  | 256K  | 9216K  | 4100    | VT-x  |
 | Intel     | Xeon L5630                     | 34808    | 8     | 32K  | 32K  | 256K  | 12288K | 2134    | VT-x  |
 | Intel     | Core i5-9400                   | 34794    | 6     | 192K | 192K | 1.5M  | 9M     | 4100    | VT-x  |
+| AMD       | FX-4330 Quad-Core              | 34688    | 4     | 16K  | 64K  | 2048K | 8192K  | 4000    | AMD-V |
+| AMD       | A10-5800K APU with Radeon H... | 34584    | 4     | 16K  | 64K  | 2048K |        | 4300    | AMD-V |
+| AMD       | A8-5600K APU with Radeon HD... | 34572    | 4     | 16K  | 64K  | 2048K |        | 4300    | AMD-V |
+| AMD       | Athlon X4 860K Quad Core       | 34500    | 4     | 16K  | 96K  | 2048K |        | 4400    | AMD-V |
 | AMD       | A10-7890K Radeon R7, 12 Com... | 34348    | 4     | 16K  | 96K  | 2048K |        | 4100    | AMD-V |
+| AMD       | Athlon X4 760K Quad Core       | 34340    | 4     | 16K  | 64K  | 2048K |        | 4300    | AMD-V |
 | AMD       | A10-6790K APU with Radeon H... | 34324    | 4     | 16K  | 64K  | 2048K |        | 4000    | AMD-V |
 | Intel     | Core i7 X 940                  | 34048    | 8     | 32K  | 32K  | 256K  | 8192K  | 2134    | VT-x  |
 | Intel     | Core i7-8650U                  | 33800    | 8     | 32K  | 32K  | 256K  | 8192K  | 4200    | VT-x  |
@@ -722,18 +717,17 @@ CPU Models
 | Intel     | Core i5-10210U                 | 33600    | 8     | 32K  | 32K  | 256K  | 6144K  |         | VT-x  |
 | AMD       | Ryzen 5 3550H with Radeon V... | 33568    | 8     | 32K  | 64K  | 512K  | 4096K  | 2100    | AMD-V |
 | Intel     | Core i7-3612QM                 | 33560    | 8     | 32K  | 32K  | 256K  | 6144K  | 3100    | VT-x  |
-| AMD       | A8-5550M APU with Radeon HD... | 33552    | 8     | 16K  | 64K  | 2048K |        | 2100    | AMD-V |
 | AMD       | Ryzen 5 PRO 3500U w_ Radeon... | 33544    | 8     | 32K  | 64K  | 512K  | 4096K  | 2100    | AMD-V |
-| AMD       | A8-5557M APU with Radeon HD... | 33536    | 8     | 16K  | 64K  | 2048K |        | 2100    | AMD-V |
 | AMD       | Ryzen 5 3450U with Radeon V... | 33536    | 8     | 32K  | 64K  | 512K  | 4096K  | 2100    | AMD-V |
 | AMD       | Ryzen 5 Microsoft Surface  ... | 33536    | 8     | 32K  | 64K  | 512K  | 4096K  | 2100    | AMD-V |
 | Intel     | Core i7-2710QE                 | 33520    | 8     | 128K | 128K | 1M    | 6M     | 3000    | VT-x  |
+| AMD       | FX-4100 Quad-Core              | 33228    | 4     | 16K  | 64K  | 2048K | 8192K  | 3600    | AMD-V |
 | Intel     | Core i5 660                    | 33212    | 4     | 32K  | 32K  | 256K  | 4096K  | 3466    | VT-x  |
 | AMD       | Phenom II X4 965               | 32908    | 4     | 64K  | 64K  | 512K  | 6144K  | 3600    | AMD-V |
+| AMD       | Athlon X4 750K Quad Core       | 32740    | 4     | 16K  | 64K  | 2048K |        | 4100    | AMD-V |
 | AMD       | A10-7700K Radeon R7, 10 Com... | 32716    | 4     | 16K  | 96K  | 2048K |        | 4100    | AMD-V |
 | AMD       | FX-4130 Quad-Core              | 32680    | 4     | 16K  | 64K  | 2048K | 4096K  | 3800    | AMD-V |
 | AMD       | Phenom II X6 1045T             | 32616    | 6     | 64K  | 64K  | 512K  | 6144K  | 2700    | AMD-V |
-| AMD       | A4-6320 APU with Radeon HD ... | 32488    | 4     | 16K  | 64K  | 1024K |        | 3800    | AMD-V |
 | AMD       | Ryzen 3 3200G with Radeon V... | 32348    | 4     | 32K  | 64K  | 512K  | 4096K  | 3800    | AMD-V |
 | AMD       | FX-4320 Quad-Core              | 32156    | 4     | 16K  | 64K  | 2048K | 4096K  | 4000    | AMD-V |
 | AMD       | FX-4150 Quad-Core              | 32144    | 4     | 16K  | 64K  | 2048K | 4096K  | 4000    | AMD-V |
@@ -743,6 +737,7 @@ CPU Models
 | Intel     | Core i3 530                    | 32040    | 4     | 32K  | 32K  | 256K  | 4096K  | 3059    | VT-x  |
 | Intel     | Core i7-8550U                  | 32024    | 8     | 32K  | 32K  | 256K  | 8192K  | 4000    | VT-x  |
 | Intel     | Core i3 540                    | 32016    | 4     | 32K  | 32K  | 256K  | 4096K  | 3067    | VT-x  |
+| AMD       | Athlon 3000G with Radeon Ve... | 32008    | 4     | 64K  | 128K | 1M    | 4M     | 3800    | AMD-V |
 | Intel     | Core i7-8565U                  | 32008    | 8     | 32K  | 32K  | 256K  | 8192K  | 4600    | VT-x  |
 | Intel     | Core i7-8565U                  | 32008    | 8     | 32K  | 32K  | 256K  | 8192K  | 4600    | VT-x  |
 | Intel     | Core i7-9700T                  | 32008    | 8     | 32K  | 32K  | 256K  | 12288K | 4300    | VT-x  |
@@ -757,7 +752,6 @@ CPU Models
 | AMD       | Athlon X4 880K Quad Core       | 31956    | 4     | 16K  | 96K  | 2048K |        | 4000    | AMD-V |
 | AMD       | Ryzen 5 2500U with Radeon V... | 31952    | 8     | 32K  | 64K  | 512K  | 4096K  | 2000    | AMD-V |
 | AMD       | Ryzen 7 4700U with Radeon G... | 31952    | 8     | 256K | 256K | 4M    | 8M     | 2000    | AMD-V |
-| AMD       | A6-5400K APU with Radeon HD... | 31944    | 4     | 16K  | 64K  | 1024K |        | 4000    | AMD-V |
 | AMD       | Ryzen 5 PRO 2500U w_ Radeon... | 31944    | 8     | 32K  | 64K  | 512K  | 4096K  | 2000    | AMD-V |
 | Intel     | Core i5-1038NG7                | 31944    | 8     | 192K | 128K | 2M    | 6M     | 3800    | VT-x  |
 | AMD       | A10-6790B APU with Radeon H... | 31940    | 4     | 32K  | 128K | 4M    |        | 4000    | AMD-V |
@@ -778,13 +772,11 @@ CPU Models
 | AMD       | Opteron 4180                   | 31200    | 6     | 64K  | 64K  | 512K  | 6144K  |         | AMD-V |
 | AMD       | A8-9600 RADEON R7, 10 COMPU... | 31156    | 4     | 32K  | 96K  | 1024K |        | 3900    | AMD-V |
 | AMD       | Athlon X4 870K Quad Core       | 31152    | 4     | 32K  | 192K | 4M    |        | 3900    | AMD-V |
-| AMD       | A6-7400K Radeon R5, 6 Compu... | 31144    | 4     | 16K  | 96K  | 1024K |        | 3900    | AMD-V |
 | AMD       | A10-8850 Radeon R7, 12 Comp... | 31144    | 4     | 16K  | 96K  | 2048K |        | 3900    | AMD-V |
 | AMD       | A10-9700 RADEON R7, 10 COMP... | 31140    | 4     | 32K  | 96K  | 1024K |        | 3900    | AMD-V |
 | AMD       | Athlon X4 950 Quad Core        | 31140    | 4     | 32K  | 96K  | 1024K |        | 3900    | AMD-V |
 | Intel     | Core2 Quad Q9550               | 30952    | 4     | 32K  | 32K  | 6144K |        | 2834    | VT-x  |
 | Intel     | Core i5 760                    | 30644    | 4     | 32K  | 32K  | 256K  | 8192K  | 2933    | VT-x  |
-| AMD       | A4-7300 APU with Radeon HD ... | 30552    | 4     | 16K  | 64K  | 1024K |        | 3800    | AMD-V |
 | Intel     | Core i3-4370                   | 30452    | 4     | 32K  | 32K  | 256K  | 4096K  | 3800    | VT-x  |
 | Intel     | Core i5-7600K                  | 30428    | 4     | 32K  | 32K  | 256K  | 6144K  | 5100    | VT-x  |
 | Intel     | Core i5-8350U                  | 30408    | 8     | 32K  | 32K  | 256K  | 6144K  | 3600    | VT-x  |
@@ -795,8 +787,6 @@ CPU Models
 | Intel     | Core i3-6300                   | 30396    | 4     | 32K  | 32K  | 256K  | 4096K  | 3800    | VT-x  |
 | AMD       | Phenom II X4 970               | 30372    | 4     | 64K  | 64K  | 512K  | 6144K  | 3500    | AMD-V |
 | AMD       | A12-9800 RADEON R7, 12 COMP... | 30356    | 4     | 32K  | 96K  | 1024K |        | 3800    | AMD-V |
-| AMD       | A8-4500M APU with Radeon HD... | 30352    | 8     | 16K  | 64K  | 2048K |        | 1900    | AMD-V |
-| AMD       | A10-7300 Radeon R6, 10 Comp... | 30352    | 8     | 16K  | 64K  | 2048K |        | 1900    | AMD-V |
 | AMD       | Athlon 200GE with Radeon Ve... | 30344    | 4     | 32K  | 64K  | 512K  | 4096K  | 3800    | AMD-V |
 | AMD       | A10-5800B APU with Radeon H... | 30340    | 4     | 16K  | 64K  | 2048K |        | 3800    | AMD-V |
 | AMD       | Ryzen 3 1300X Quad-Core        | 30340    | 4     | 32K  | 64K  | 512K  | 4096K  | 3800    | AMD-V |
@@ -850,7 +840,6 @@ CPU Models
 | Intel     | Xeon E5450                     | 28796    | 4     | 32K  | 32K  | 6144K |        | 3166    | VT-x  |
 | AMD       | Athlon II X4 645               | 28792    | 4     | 64K  | 64K  | 512K  |        | 3100    | AMD-V |
 | AMD       | A8-7670K Radeon R7, 10 Comp... | 28760    | 4     | 16K  | 96K  | 2048K |        | 3600    | AMD-V |
-| AMD       | A8-7100 Radeon R5, 8 Comput... | 28752    | 8     | 16K  | 64K  | 2048K |        | 1800    | AMD-V |
 | AMD       | A10-8750 Radeon R7, 12 Comp... | 28748    | 4     | 16K  | 96K  | 2048K |        | 3600    | AMD-V |
 | AMD       | PRO A10-8750B R7, 12 Comput... | 28744    | 4     | 32K  | 192K | 4M    |        | 3600    | AMD-V |
 | Intel     | Core i7-4860EQ                 | 28728    | 8     | 32K  | 32K  | 256K  | 6144K  | 3200    | VT-x  |
@@ -871,7 +860,6 @@ CPU Models
 | Intel     | Core i5-7600                   | 28040    | 4     | 32K  | 32K  | 256K  | 6144K  | 4100    | VT-x  |
 | Intel     | Xeon X5460                     | 28040    | 4     | 32K  | 32K  | 6144K |        | 3166    | VT-x  |
 | Intel     | Core i5-6600K                  | 28040    | 4     | 32K  | 32K  | 256K  | 6144K  | 4500    | VT-x  |
-| AMD       | A4-5300 APU with Radeon HD ... | 28036    | 4     | 16K  | 64K  | 1024K |        | 3400    | AMD-V |
 | Intel     | Core i7-7567U                  | 28032    | 4     | 32K  | 32K  | 256K  | 4096K  | 4000    | VT-x  |
 | Intel     | Xeon E-2224G                   | 28032    | 4     | 32K  | 32K  | 256K  | 8192K  | 4700    | VT-x  |
 | Intel     | Core i5-2550K                  | 28016    | 4     | 32K  | 32K  | 256K  | 6144K  | 3800    | VT-x  |
@@ -921,7 +909,6 @@ CPU Models
 | Intel     | Pentium Gold G6400T            | 27196    | 4     | 64K  | 64K  | 512K  | 4M     | 3400    | VT-x  |
 | Intel     | Core i5-4590                   | 27184    | 4     | 32K  | 32K  | 256K  | 6144K  | 3700    | VT-x  |
 | Intel     | Xeon E5-2609 v4                | 27168    | 8     | 32K  | 32K  | 256K  | 20480K | 1700    | VT-x  |
-| AMD       | A8-5545M APU with Radeon HD... | 27160    | 8     | 16K  | 64K  | 2048K |        | 1700    | AMD-V |
 | AMD       | A10-7700K APU with Radeon R... | 27160    | 4     | 16K  | 96K  | 2048K |        | 3400    | AMD-V |
 | AMD       | Athlon X4 750 Quad Core        | 27148    | 4     | 16K  | 64K  | 2048K |        |         | AMD-V |
 | Intel     | Core i5-3470                   | 27064    | 4     | 32K  | 32K  | 256K  | 6144K  | 6300    | VT-x  |
@@ -991,11 +978,11 @@ CPU Models
 | Intel     | Core i3-2100                   | 25560    | 4     | 32K  | 32K  | 256K  | 3072K  | 3100    | VT-x  |
 | Intel     | Core i5-3450                   | 25560    | 4     | 32K  | 32K  | 256K  | 6144K  | 6300    | VT-x  |
 | AMD       | PRO A8-8650B R7, 10 Compute... | 25552    | 4     | 16K  | 96K  | 2048K |        | 3200    | AMD-V |
-| AMD       | A8-8600P Radeon R6, 10 Comp... | 25552    | 8     | 32K  | 64K  | 1024K |        | 1600    | AMD-V |
 | AMD       | Ryzen 3 2200GE with Radeon ... | 25552    | 4     | 32K  | 64K  | 512K  | 4096K  | 3200    | AMD-V |
 | AMD       | Ryzen 3 PRO 2200GE w_ Radeo... | 25552    | 4     | 128K | 256K | 2M    | 4M     | 3200    | AMD-V |
 | Intel     | Core i3-4170T                  | 25552    | 4     | 32K  | 32K  | 256K  | 3072K  | 3200    | VT-x  |
 | AMD       | Phenom II X4 B97               | 25544    | 4     | 64K  | 64K  | 512K  | 6144K  | 3200    | AMD-V |
+| AMD       | A8-7600 Radeon R7, 10 Compu... | 25544    | 4     | 16K  | 96K  | 2048K |        | 3100    | AMD-V |
 | Intel     | Xeon E3-1225 V2                | 25544    | 4     | 32K  | 32K  | 256K  | 8192K  | 3600    | VT-x  |
 | AMD       | Athlon X4 840 Quad Core        | 25540    | 4     | 16K  | 96K  | 2048K |        | 3100    | AMD-V |
 | Intel     | Xeon E3-1225 v3                | 25540    | 4     | 32K  | 32K  | 256K  | 8192K  | 3600    | VT-x  |
@@ -1168,10 +1155,10 @@ CPU Models
 | Intel     | Core i7-4600U                  | 21576    | 4     | 32K  | 32K  | 256K  | 4096K  | 3300    | VT-x  |
 | AMD       | A12-9720P RADEON R7, 12 COM... | 21568    | 4     | 32K  | 96K  | 1024K |        | 2700    | AMD-V |
 | AMD       | FX-9800P RADEON R7, 12 COMP... | 21568    | 4     | 32K  | 96K  | 1024K |        | 2700    | AMD-V |
-| AMD       | A6-4400M APU with Radeon HD... | 21568    | 4     | 16K  | 64K  | 1024K |        | 2700    | AMD-V |
 | Intel     | Core i7-2620M                  | 21568    | 4     | 32K  | 32K  | 256K  | 4096K  | 3400    | VT-x  |
 | AMD       | Ryzen 3 4300U with Radeon G... | 21564    | 4     | 128K | 128K | 2M    | 4M     | 2700    | AMD-V |
 | AMD       | PRO A12-9800B R7, 12 COMPUT... | 21560    | 4     | 64K  | 192K | 2M    |        | 2700    | AMD-V |
+| AMD       | FX-7600P Radeon R7, 12 Comp... | 21560    | 4     | 16K  | 64K  | 2048K |        | 2700    | AMD-V |
 | Intel     | Core i5-3340M                  | 21560    | 4     | 32K  | 32K  | 256K  | 3072K  | 3400    | VT-x  |
 | Intel     | Core i5-4310M                  | 21560    | 4     | 32K  | 32K  | 256K  | 3072K  | 3400    | VT-x  |
 | Intel     | Core i5-4570R                  | 21556    | 4     | 32K  | 32K  | 256K  | 4096K  | 3200    | VT-x  |
@@ -1301,6 +1288,7 @@ CPU Models
 | Intel     | Core i3-2370M                  | 19196    | 4     | 32K  | 32K  | 256K  | 3072K  | 2400    | VT-x  |
 | Intel     | Core i7-3517U                  | 19184    | 4     | 32K  | 32K  | 256K  | 4096K  | 3000    | VT-x  |
 | Intel     | Core i3-3110M                  | 19180    | 4     | 32K  | 32K  | 256K  | 3072K  | 2400    | VT-x  |
+| Intel     | Core i3-4000M                  | 19176    | 4     | 32K  | 32K  | 256K  | 3072K  | 2400    | VT-x  |
 | AMD       | A10-9600P RADEON R5, 10 COM... | 19172    | 4     | 32K  | 96K  | 1024K |        | 2400    | AMD-V |
 | AMD       | Athlon 300U with Radeon Veg... | 19172    | 4     | 32K  | 64K  | 512K  | 4096K  | 2400    | AMD-V |
 | AMD       | Athlon Gold 3150U with Rade... | 19172    | 4     | 32K  | 64K  | 512K  | 4096K  | 2400    | AMD-V |
@@ -1349,6 +1337,7 @@ CPU Models
 | Intel     | Core i5-4670T                  | 18396    | 4     | 32K  | 32K  | 256K  | 6144K  | 3300    | VT-x  |
 | Intel     | Core i3-2348M                  | 18376    | 4     | 32K  | 32K  | 256K  | 3072K  | 2300    | VT-x  |
 | Intel     | Core i3-2350M                  | 18376    | 4     | 32K  | 32K  | 256K  | 3072K  | 2300    | VT-x  |
+| AMD       | A10-4600M APU with Radeon H... | 18372    | 4     | 16K  | 64K  | 2048K |        | 2300    | AMD-V |
 | Intel     | Core i5-5300U                  | 18372    | 4     | 32K  | 32K  | 256K  | 3072K  | 2900    | VT-x  |
 | AMD       | R-464L APU with Radeon HD G... | 18364    | 4     | 32K  | 128K | 4M    |        | 2300    | AMD-V |
 | Intel     | Core i5-2415M                  | 18364    | 4     | 32K  | 32K  | 256K  | 3072K  | 2900    | VT-x  |
@@ -1387,7 +1376,6 @@ CPU Models
 | AMD       | A8-7410 APU with AMD Radeon... | 17584    | 4     | 32K  | 32K  | 2048K |        | 2200    | AMD-V |
 | Intel     | Core i3-2328M                  | 17576    | 4     | 32K  | 32K  | 256K  | 3072K  | 2200    | VT-x  |
 | AMD       | A6-3620 APU with Radeon HD ... | 17572    | 4     | 64K  | 64K  | 1024K |        | 2200    | AMD-V |
-| AMD       | A8-7050 Radeon R5, 6 Comput... | 17568    | 4     | 16K  | 64K  | 1024K |        | 2200    | AMD-V |
 | AMD       | Phenom II N970 Quad-Core       | 17564    | 4     | 64K  | 64K  | 512K  |        | 2200    | AMD-V |
 | Intel     | Core i7-3517UE                 | 17564    | 4     | 64K  | 64K  | 512K  | 4M     | 2800    | VT-x  |
 | Intel     | Core i7-2655LE                 | 17560    | 4     | 32K  | 32K  | 256K  | 4096K  | 2900    | VT-x  |
@@ -1417,10 +1405,12 @@ CPU Models
 | Intel     | Core i3-5010U                  | 16804    | 4     | 32K  | 32K  | 256K  | 3072K  | 2100    | VT-x  |
 | Intel     | Core2 Duo E7400                | 16798    | 2     | 32K  | 32K  | 3072K |        | 3400    | VT-x  |
 | Intel     | Core i3-2310M                  | 16796    | 4     | 32K  | 32K  | 256K  | 3072K  | 2100    | VT-x  |
+| AMD       | A8-5550M APU with Radeon HD... | 16776    | 4     | 16K  | 64K  | 2048K |        | 2100    | AMD-V |
 | AMD       | FX-7500 Radeon R7, 10 Compu... | 16776    | 4     | 16K  | 96K  | 2048K |        | 2100    | AMD-V |
 | AMD       | A6-3600 APU with Radeon HD ... | 16772    | 4     | 64K  | 64K  | 1024K |        | 2100    | AMD-V |
 | AMD       | A10-5745M APU with Radeon H... | 16772    | 4     | 16K  | 64K  | 2048K |        | 2100    | AMD-V |
 | AMD       | Ryzen 3 3300U with Radeon V... | 16772    | 4     | 32K  | 64K  | 512K  | 4096K  | 2100    | AMD-V |
+| AMD       | A8-5557M APU with Radeon HD... | 16768    | 4     | 16K  | 64K  | 2048K |        | 2100    | AMD-V |
 | AMD       | A10 PRO-7350B R6, 10 Comput... | 16768    | 4     | 16K  | 96K  | 2048K |        | 2100    | AMD-V |
 | AMD       | Embedded R-Series RX-421ND     | 16768    | 4     | 128K | 256K | 4M    |        | 2100    | AMD-V |
 | AMD       | Opteron X3421 APU              | 16768    | 4     | 64K  | 192K | 2M    |        | 2100    | AMD-V |
@@ -1432,9 +1422,11 @@ CPU Models
 | Intel     | Celeron E3300                  | 16700    | 2     | 32K  | 32K  | 1024K |        | 3500    | VT-x  |
 | AMD       | Athlon II X3 425               | 16272    | 3     | 64K  | 64K  | 512K  |        | 2700    | AMD-V |
 | AMD       | Athlon II X3 425e              | 16272    | 3     | 64K  | 64K  | 512K  |        | 2700    | AMD-V |
+| AMD       | A4-6320 APU with Radeon HD ... | 16244    | 2     | 16K  | 64K  | 1024K |        | 3800    | AMD-V |
 | AMD       | Quad-Core Opteron 2350         | 16080    | 4     | 64K  | 64K  | 512K  | 2048K  | 2000    | AMD-V |
 | Intel     | Core i3-5005U                  | 16024    | 4     | 32K  | 32K  | 256K  | 3072K  | 2000    | VT-x  |
 | AMD       | A6-5200 APU with Radeon HD ... | 16004    | 4     | 32K  | 32K  | 2048K |        | 2000    | AMD-V |
+| Intel     | Core2 Quad Q9000               | 16004    | 4     | 32K  | 32K  | 3072K |        | 2001    | VT-x  |
 | Intel     | Celeron J1900                  | 16004    | 4     | 24K  | 32K  | 1024K |        | 2415    | VT-x  |
 | Intel     | Core i5-4260U                  | 16004    | 4     | 32K  | 32K  | 256K  | 3072K  | 2700    | VT-x  |
 | Intel     | Core i3-6006U                  | 16004    | 4     | 32K  | 32K  | 256K  | 3072K  | 2000    | VT-x  |
@@ -1457,6 +1449,7 @@ CPU Models
 | AMD       | A6-7310 APU with AMD Radeon... | 15976    | 4     | 32K  | 32K  | 2048K |        | 2000    | AMD-V |
 | AMD       | A8-6410 APU with AMD Radeon... | 15976    | 4     | 32K  | 32K  | 2048K |        | 2000    | AMD-V |
 | AMD       | Ryzen 3 2300U with Radeon V... | 15976    | 4     | 32K  | 64K  | 512K  | 4096K  | 2000    | AMD-V |
+| AMD       | A6-5400K APU with Radeon HD... | 15972    | 2     | 16K  | 64K  | 1024K |        | 4000    | AMD-V |
 | Intel     | Pentium Silver J5040           | 15972    | 4     | 96K  | 128K | 4M    |        | 3200    | VT-x  |
 | Intel     | Pentium Gold 7505              | 15972    | 4     | 48K  | 32K  | 1280K | 4096K  | 3500    | VT-x  |
 | AMD       | Athlon X2 370K Dual Core       | 15970    | 2     | 16K  | 64K  | 1M    |        | 4000    | AMD-V |
@@ -1479,10 +1472,12 @@ CPU Models
 | AMD       | Phenom II X2 555               | 15908    | 2     | 64K  | 64K  | 512K  | 6144K  | 3700    | AMD-V |
 | AMD       | Phenom II X3 710               | 15681    | 3     | 64K  | 64K  | 512K  | 6144K  | 2600    | AMD-V |
 | AMD       | Athlon II X3 420e              | 15669    | 3     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
+| AMD       | A6-7400K Radeon R5, 6 Compu... | 15572    | 2     | 16K  | 96K  | 1024K |        | 3900    | AMD-V |
 | AMD       | A6-6400B APU with Radeon HD... | 15570    | 2     | 16K  | 64K  | 1M    |        | 3900    | AMD-V |
 | Intel     | Pentium D                      | 15434    | 2     | 16K  |      | 2048K |        | 3403    |       |
 | Intel     | Atom E3845                     | 15336    | 4     | 96K  | 128K | 2M    |        | 1915    | VT-x  |
 | Intel     | Atom E3845                     | 15332    | 4     | 24K  | 32K  | 1024K |        | 1915    | VT-x  |
+| AMD       | A4-7300 APU with Radeon HD ... | 15276    | 2     | 16K  | 64K  | 1024K |        | 3800    | AMD-V |
 | Intel     | Atom D510                      | 15212    | 4     | 24K  | 32K  | 512K  |        | 1666    |       |
 | Intel     | Core i3-4030U                  | 15204    | 4     | 32K  | 32K  | 256K  | 3072K  | 1900    | VT-x  |
 | Intel     | Core i5-4250U                  | 15204    | 4     | 32K  | 32K  | 256K  | 3072K  | 2600    | VT-x  |
@@ -1491,6 +1486,8 @@ CPU Models
 | Intel     | Pentium 3825U                  | 15196    | 4     | 32K  | 32K  | 256K  | 2048K  | 1900    | VT-x  |
 | Intel     | Core2 Duo E7600                | 15178    | 2     | 32K  | 32K  | 3072K |        | 3067    | VT-x  |
 | AMD       | A8-3530MX APU with Radeon H... | 15176    | 4     | 64K  | 64K  | 1024K |        | 1900    | AMD-V |
+| AMD       | A8-4500M APU with Radeon HD... | 15176    | 4     | 16K  | 64K  | 2048K |        | 1900    | AMD-V |
+| AMD       | A10-7300 Radeon R6, 10 Comp... | 15176    | 4     | 16K  | 64K  | 2048K |        | 1900    | AMD-V |
 | AMD       | A4 PRO-7300B APU with Radeo... | 15172    | 2     | 16K  | 64K  | 1024K |        | 3800    |       |
 | AMD       | A8 PRO-7150B R5, 10 Compute... | 15172    | 4     | 16K  | 96K  | 2048K |        | 1900    | AMD-V |
 | Intel     | Pentium 4                      | 15168    | 2     | 16K  |      | 2048K |        | 3403    |       |
@@ -1549,6 +1546,7 @@ CPU Models
 | Intel     | Pentium 4                      | 14384    | 2     | 16K  |      | 2048K |        | 3600    |       |
 | AMD       | A4-6210 APU with AMD Radeon... | 14380    | 4     | 32K  | 32K  | 2048K |        | 1800    | AMD-V |
 | AMD       | A8-3510MX APU with Radeon H... | 14376    | 4     | 64K  | 64K  | 1024K |        | 1800    | AMD-V |
+| AMD       | A8-7100 Radeon R5, 8 Comput... | 14376    | 4     | 16K  | 64K  | 2048K |        | 1800    | AMD-V |
 | AMD       | A10-8700P Radeon R6, 10 Com... | 14376    | 4     | 32K  | 96K  | 1024K |        | 1800    | AMD-V |
 | AMD       | A4-7210 APU with AMD Radeon... | 14376    | 4     | 32K  | 32K  | 2048K |        | 1800    | AMD-V |
 | AMD       | A6-6310 APU with AMD Radeon... | 14376    | 4     | 32K  | 32K  | 2048K |        | 1800    | AMD-V |
@@ -1564,6 +1562,7 @@ CPU Models
 | AMD       | Phenom II X2 521               | 14064    | 2     | 64K  | 64K  | 1024K |        | 3500    | AMD-V |
 | AMD       | Athlon II X2 4450e             | 14042    | 2     | 64K  | 64K  | 1024K |        | 2800    | AMD-V |
 | Intel     | Pentium G4500                  | 14022    | 2     | 32K  | 32K  | 256K  | 3072K  | 3500    | VT-x  |
+| AMD       | A4-5300 APU with Radeon HD ... | 14018    | 2     | 16K  | 64K  | 1024K |        | 3400    | AMD-V |
 | Intel     | Pentium G3460                  | 14006    | 2     | 32K  | 32K  | 256K  | 3072K  | 3500    | VT-x  |
 | AMD       | Athlon II X2 240e              | 14000    | 2     | 64K  | 64K  | 1024K |        | 2800    | AMD-V |
 | AMD       | A6-9500 RADEON R5, 8 COMPUT... | 13998    | 2     | 32K  | 96K  | 1024K |        | 3500    | AMD-V |
@@ -1596,6 +1595,7 @@ CPU Models
 | Intel     | Core i5-3317U                  | 13584    | 4     | 32K  | 32K  | 256K  | 3072K  | 2600    | VT-x  |
 | AMD       | A6-3430MX APU with Radeon H... | 13580    | 4     | 64K  | 64K  | 1024K |        | 1700    | AMD-V |
 | AMD       | A4-5300B APU with Radeon HD... | 13580    | 2     | 16K  | 64K  | 1024K |        | 3400    | AMD-V |
+| AMD       | A8-5545M APU with Radeon HD... | 13580    | 4     | 16K  | 64K  | 2048K |        | 1700    | AMD-V |
 | AMD       | A6-9400 RADEON R5, 6 COMPUT... | 13578    | 2     | 32K  | 96K  | 1M    |        | 3400    | AMD-V |
 | Intel     | Core i7-2637M                  | 13572    | 4     | 32K  | 32K  | 256K  | 4096K  | 2800    | VT-x  |
 | AMD       | Athlon II X2 B28               | 13570    | 2     | 64K  | 64K  | 1024K |        | 3400    | AMD-V |
@@ -1668,6 +1668,7 @@ CPU Models
 | AMD       | A8-3520M APU with Radeon HD... | 12780    | 4     | 64K  | 64K  | 1024K |        | 1600    | AMD-V |
 | AMD       | A8-4555M APU with Radeon HD... | 12780    | 4     | 16K  | 64K  | 2048K |        | 1600    | AMD-V |
 | AMD       | A9-9430 RADEON R5, 5 COMPUT... | 12776    | 2     | 32K  | 64K  | 1024K |        | 3200    | AMD-V |
+| AMD       | A8-8600P Radeon R6, 10 Comp... | 12776    | 4     | 32K  | 64K  | 1024K |        | 1600    | AMD-V |
 | AMD       | PRO A8-8600B R6, 10 Compute... | 12776    | 4     | 32K  | 96K  | 1024K |        | 1600    | AMD-V |
 | AMD       | Phenom II P920 Quad-Core       | 12772    | 4     | 64K  | 64K  | 512K  |        | 1600    | AMD-V |
 | Intel     | Core i5-4300Y                  | 12772    | 4     | 32K  | 32K  | 256K  | 3072K  | 2300    | VT-x  |
@@ -1684,8 +1685,10 @@ CPU Models
 | Intel     | Core2 Duo E7200                | 12696    | 2     | 32K  | 32K  | 3072K |        | 4009    |       |
 | AMD       | Phenom 8400 Triple-Core        | 12657    | 3     | 64K  | 64K  | 512K  | 2048K  | 2100    | AMD-V |
 | Intel     | 2160                           | 12614    | 2     | 32K  | 32K  | 1024K |        | 1803    |       |
+| AMD       | Athlon 64 X2 Dual Core 6000+   | 12600    | 2     | 64K  | 64K  | 1024K |        | 3000    | AMD-V |
 | AMD       | Phenom II N830 Triple-Core     | 12597    | 3     | 64K  | 64K  | 512K  |        | 2100    | AMD-V |
 | Intel     | Pentium G2120                  | 12464    | 2     | 32K  | 32K  | 256K  | 3072K  | 3100    | VT-x  |
+| AMD       | Athlon 64 X2 Dual Core 6000+   | 12462    | 2     | 64K  | 64K  | 512K  |        | 3100    | AMD-V |
 | AMD       | Athlon II X2 255               | 12460    | 2     | 64K  | 64K  | 1024K |        | 3100    | AMD-V |
 | AMD       | Phenom II X2 550               | 12456    | 2     | 64K  | 64K  | 512K  | 6144K  | 3100    | AMD-V |
 | Intel     | Core2 6700                     | 12408    | 2     | 32K  | 32K  | 4096K |        | 2670    | VT-x  |
@@ -1716,6 +1719,7 @@ CPU Models
 | Intel     | Core m5-6Y57                   | 12096    | 4     | 32K  | 32K  | 256K  | 4096K  | 2800    | VT-x  |
 | AMD       | Phenom II X2 545               | 12080    | 2     | 64K  | 64K  | 512K  | 6144K  | 3000    | AMD-V |
 | AMD       | Phenom II X2 545               | 12060    | 2     | 64K  | 64K  | 512K  | 6144K  | 3000    | AMD-V |
+| AMD       | A4-4000 APU with Radeon HD ... | 12060    | 2     | 16K  | 64K  | 1024K |        | 3000    | AMD-V |
 | AMD       | Athlon II X2 250e              | 12056    | 2     | 64K  | 64K  | 1024K |        | 3000    | AMD-V |
 | Intel     | Pentium E5700                  | 12056    | 2     | 32K  | 32K  | 2048K |        |         | VT-x  |
 | AMD       | Athlon X2 250                  | 12054    | 2     | 64K  | 64K  | 1024K |        | 3000    | AMD-V |
@@ -1743,6 +1747,7 @@ CPU Models
 | AMD       | A9-9420 RADEON R5, 5 COMPUT... | 11982    | 2     | 32K  | 64K  | 1024K |        | 3000    | AMD-V |
 | AMD       | A6-3420M APU with Radeon HD... | 11980    | 4     | 64K  | 64K  | 1024K |        | 1500    | AMD-V |
 | AMD       | A8-3500M APU with Radeon HD... | 11980    | 4     | 64K  | 64K  | 1024K |        | 1500    | AMD-V |
+| AMD       | A4-5000 APU with Radeon HD ... | 11980    | 4     | 32K  | 32K  | 2048K |        | 1500    | AMD-V |
 | AMD       | GX-415GA SOC with Radeon HD... | 11980    | 4     | 32K  | 32K  | 2048K |        | 1500    | AMD-V |
 | AMD       | E2-6110 APU with AMD Radeon... | 11980    | 4     | 32K  | 32K  | 2048K |        | 1500    | AMD-V |
 | Intel     | Celeron J3455                  | 11980    | 4     | 96K  | 128K | 2M    |        | 2300    | VT-x  |
@@ -1836,6 +1841,8 @@ CPU Models
 | Intel     | Pentium G630                   | 11124    | 2     | 32K  | 32K  | 256K  | 3072K  | 2700    | VT-x  |
 | AMD       | A4-3400 APU with Radeon HD ... | 11122    | 2     | 64K  | 64K  | 512K  |        | 2700    | AMD-V |
 | AMD       | Athlon Dual Core 4850e         | 10998    | 2     | 64K  | 64K  | 512K  |        | 2500    | AMD-V |
+| AMD       | Athlon 64 X2 Dual Core 5000+   | 10948    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
+| AMD       | Athlon 64 X2 Dual Core 5000+   | 10926    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | Intel     | Pentium G620                   | 10918    | 2     | 32K  | 32K  | 256K  | 3072K  | 2600    | VT-x  |
 | AMD       | Sempron 3850 APU with Radeo... | 10916    | 4     | 32K  | 32K  | 2048K |        | 1300    | AMD-V |
 | AMD       | Athlon II X2 215               | 10852    | 2     | 64K  | 64K  | 512K  |        | 2700    | AMD-V |
@@ -1847,6 +1854,7 @@ CPU Models
 | Intel     | Core2 6600                     | 10800    | 2     | 32K  | 32K  | 4096K |        | 2448    | VT-x  |
 | Intel     | Celeron G1820                  | 10800    | 2     | 32K  | 32K  | 256K  | 2048K  | 2700    | VT-x  |
 | Intel     | Pentium E5400                  | 10798    | 2     | 32K  | 32K  | 2048K |        |         |       |
+| AMD       | A6-4400M APU with Radeon HD... | 10784    | 2     | 16K  | 64K  | 1024K |        | 2700    | AMD-V |
 | AMD       | A4-5150M APU with Radeon HD... | 10784    | 2     | 16K  | 64K  | 1024K |        | 2700    | AMD-V |
 | Intel     | Pentium G3240T                 | 10782    | 2     | 32K  | 32K  | 256K  | 3072K  | 2700    | VT-x  |
 | Intel     | Celeron G555                   | 10776    | 2     | 64K  | 64K  | 512K  | 2M     | 2700    | VT-x  |
@@ -1879,15 +1887,19 @@ CPU Models
 | Intel     | Celeron G540                   | 10498    | 2     | 32K  | 32K  | 256K  | 2048K  | 2500    | VT-x  |
 | AMD       | Athlon 64 FX-60 Dual Core      | 10456    | 2     | 64K  | 64K  | 1024K |        |         |       |
 | AMD       | Athlon II X2 210e              | 10456    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
+| AMD       | Athlon 64 X2 Dual Core 5000+   | 10452    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | AMD       | Athlon 64 X2 Dual Core 5200+   | 10452    | 2     | 64K  | 64K  | 1024K |        | 2600    | AMD-V |
 | AMD       | Dual Core Opteron 285          | 10448    | 2     | 256K | 256K | 4M    |        | 2600    |       |
+| AMD       | Athlon 64 X2 Dual Core 5000+   | 10446    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | Intel     | Celeron G1610                  | 10434    | 2     | 32K  | 32K  | 256K  | 2048K  | 2600    | VT-x  |
+| AMD       | Athlon Dual Core 5000B         | 10422    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | AMD       | Athlon Dual Core 5050e         | 10422    | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | AMD       | Athlon 64 Dual Core 5200+      | 10404    | 2     | 64K  | 64K  | 1024K |        | 2600    | AMD-V |
 | AMD       | A6-9225 RADEON R4, 5 COMPUT... | 10404    | 2     | 32K  | 64K  | 1024K |        | 2600    | AMD-V |
 | Intel     | Celeron G550                   | 10404    | 2     | 32K  | 32K  | 256K  | 2048K  | 2600    | VT-x  |
 | AMD       | E2-3800 APU with Radeon HD ... | 10384    | 4     | 32K  | 32K  | 2048K |        | 1300    | AMD-V |
 | AMD       | A6-9230 RADEON R4, 5 COMPUT... | 10380    | 2     | 32K  | 64K  | 1024K |        | 2600    | AMD-V |
+| AMD       | QC-4000                        | 10380    | 4     | 32K  | 32K  | 2048K |        | 1300    | AMD-V |
 | Intel     | Core i3-4010Y                  | 10380    | 4     | 32K  | 32K  | 256K  | 3072K  | 1300    | VT-x  |
 | Intel     | Core2 Duo T9500                | 10378    | 2     | 32K  | 32K  | 6144K |        | 2601    | VT-x  |
 | Intel     | Pentium G2030T                 | 10376    | 2     | 32K  | 32K  | 256K  | 3072K  | 2600    | VT-x  |
@@ -1911,6 +1923,7 @@ CPU Models
 | AMD       | Athlon 64 X2 Dual Core 4800+   | 10050    | 2     | 64K  | 64K  | 512K  |        | 2500    | AMD-V |
 | AMD       | Athlon 7550 Dual-Core          | 10046    | 2     | 64K  | 64K  | 512K  | 2048K  | 2500    | AMD-V |
 | AMD       | Sempron X2 190                 | 10044    | 2     | 64K  | 64K  | 512K  |        | 2500    | AMD-V |
+| AMD       | Athlon 64 X2 Dual Core 4000+   | 10038    | 2     | 64K  | 64K  | 512K  |        | 2100    | AMD-V |
 | AMD       | Turion II N530 Dual-Core       | 10000    | 2     | 64K  | 64K  | 1024K |        | 2500    | AMD-V |
 | Intel     | Pentium E5200                  | 10000    | 2     | 32K  | 32K  | 2048K |        | 6300    |       |
 | Intel     | Core2 Duo T9300                | 10000    | 2     | 32K  | 32K  | 6144K |        | 2501    | VT-x  |
@@ -1938,6 +1951,7 @@ CPU Models
 | AMD       | Dual Core Opteron 180          | 9646     | 2     | 128K | 128K | 2M    |        | 2400    |       |
 | AMD       | Athlon 64 X2 Dual Core 4600+   | 9646     | 2     | 64K  | 64K  | 512K  |        | 2400    | AMD-V |
 | AMD       | Athlon 64 X2 Dual Core 4600+   | 9644     | 2     | 64K  | 64K  | 512K  |        | 2400    | AMD-V |
+| AMD       | Athlon 64 X2 Dual Core 5000+   | 9644     | 2     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | AMD       | Athlon 7450 Dual-Core          | 9644     | 2     | 64K  | 64K  | 512K  | 2048K  | 2400    | AMD-V |
 | Intel     | Celeron G530                   | 9630     | 2     | 32K  | 32K  | 256K  | 2048K  | 2400    | VT-x  |
 | AMD       | Turion II Ultra Dual-Core M... | 9604     | 2     | 64K  | 64K  | 1024K |        | 2400    | AMD-V |
@@ -2013,9 +2027,11 @@ CPU Models
 | Intel     | Core2 Duo P9300                | 9042     | 2     | 32K  | 32K  | 6144K |        | 2267    | VT-x  |
 | AMD       | Athlon 64 X2 Dual Core 4400+   | 9020     | 2     | 64K  | 64K  | 1024K |        | 2200    |       |
 | Intel     | Core2 6420                     | 8958     | 2     | 32K  | 32K  | 4096K |        | 2136    | VT-x  |
+| Intel     | Pentium Silver N6000           | 8908     | 4     | 128K | 128K | 1.5M  | 4M     | 3300    | VT-x  |
 | Intel     | Celeron E1500                  | 8876     | 2     | 32K  | 32K  | 512K  |        | 2203    |       |
 | AMD       | Athlon 64 X2 Dual Core 4200+   | 8844     | 2     | 64K  | 64K  | 512K  |        | 2200    | AMD-V |
 | AMD       | Turion 64 X2 Mobile Technol... | 8840     | 2     | 64K  | 64K  | 512K  |        | 2200    | AMD-V |
+| AMD       | Athlon 5000 Dual-Core          | 8840     | 2     | 64K  | 64K  | 512K  |        | 2200    | AMD-V |
 | AMD       | Athlon 64 X2 Dual Core 4200+   | 8838     | 2     | 64K  | 64K  | 512K  |        | 2200    |       |
 | Intel     | Celeron 3965U                  | 8832     | 2     | 32K  | 32K  | 256K  | 2048K  | 2200    | VT-x  |
 | Intel     | Pentium Dual E2160             | 8810     | 2     | 32K  | 32K  | 1024K |        | 1900    |       |
@@ -2038,7 +2054,9 @@ CPU Models
 | Intel     | Pentium B960                   | 8790     | 2     | 32K  | 32K  | 256K  | 2048K  | 2200    |       |
 | Intel     | Celeron N3450                  | 8788     | 4     | 24K  | 32K  | 1024K |        | 2200    | VT-x  |
 | AMD       | A4-9120 RADEON R3, 4 COMPUT... | 8786     | 2     | 32K  | 64K  | 1024K |        | 2200    | AMD-V |
+| AMD       | A6-7000 Radeon R4, 5 Comput... | 8786     | 2     | 16K  | 96K  | 1M    |        | 2200    | AMD-V |
 | AMD       | Turion II Neo N54L Dual-Core   | 8784     | 2     | 64K  | 64K  | 1024K |        | 2200    | AMD-V |
+| AMD       | A8-7050 Radeon R5, 6 Comput... | 8784     | 2     | 16K  | 64K  | 1024K |        | 2200    | AMD-V |
 | AMD       | A6 PRO-7050B R4, 5 Compute ... | 8782     | 2     | 16K  | 96K  | 1024K |        | 2200    | AMD-V |
 | AMD       | GX-222GC SOC with Radeon R5... | 8782     | 2     | 32K  | 32K  | 1024K |        | 2200    | AMD-V |
 | Intel     | Pentium G620T                  | 8780     | 2     | 32K  | 32K  | 256K  | 3072K  | 2200    | VT-x  |
@@ -2046,6 +2064,7 @@ CPU Models
 | Intel     | Core2 T6670                    | 8778     | 2     | 32K  | 32K  | 2048K |        | 2201    | VT-x  |
 | Intel     | Core M-5Y31                    | 8776     | 4     | 32K  | 32K  | 256K  | 4096K  | 2400    | VT-x  |
 | Intel     | Celeron N4100                  | 8756     | 4     | 24K  | 32K  | 4096K |        | 2400    | VT-x  |
+| Intel     | Pentium Silver N5000           | 8756     | 4     | 24K  | 32K  | 4096K |        | 2700    | VT-x  |
 | Intel     | Celeron N4120                  | 8756     | 4     | 96K  | 128K | 4M    |        | 2600    | VT-x  |
 | Intel     | Pentium Silver N5030           | 8752     | 4     | 24K  | 32K  | 4096K |        | 3100    | VT-x  |
 | Intel     | Pentium N4200                  | 8752     | 4     | 96K  | 128K | 2M    |        | 2500    | VT-x  |
@@ -2095,6 +2114,7 @@ CPU Models
 | AMD       | Turion 64 X2 Mobile Technol... | 8378     | 2     | 64K  | 64K  | 512K  |        | 2100    | AMD-V |
 | AMD       | Athlon X2 Dual Core BE-2350    | 8378     | 2     | 64K  | 64K  | 512K  |        | 2100    | AMD-V |
 | Intel     | Pentium T4300                  | 8378     | 2     | 32K  | 32K  | 1024K |        | 2000    |       |
+| Intel     | Atom x5-E8000                  | 8320     | 4     | 96K  | 128K | 2M    |        | 2000    | VT-x  |
 | AMD       | Athlon 64 X2 Dual Core 3800+   | 8118     | 2     | 64K  | 64K  | 512K  |        | 2000    | AMD-V |
 | Intel     | Celeron E1400                  | 8066     | 2     | 32K  | 32K  | 512K  |        | 2003    |       |
 | AMD       | Athlon 64 X2 Dual Core 3800+   | 8040     | 2     | 64K  | 64K  | 512K  |        | 2000    |       |
@@ -2160,6 +2180,7 @@ CPU Models
 | Intel     | Xeon E5503                     | 7978     | 2     | 32K  | 32K  | 256K  | 4096K  |         | VT-x  |
 | ARM       | Cortex-A9                      | 7972     | 4     |      |      |       |        | 1300    |       |
 | Intel     | Core2 Duo P7350                | 7962     | 2     | 32K  | 32K  | 3072K |        | 1995    | VT-x  |
+| Intel     | Pentium P6000                  | 7672     | 2     | 32K  | 32K  | 256K  | 3072K  | 1866    |       |
 | AMD       | Athlon 64 X2 Dual Core 3600+   | 7638     | 2     | 64K  | 64K  | 512K  |        | 1900    | AMD-V |
 | AMD       | Athlon X2 Dual Core BE-2300    | 7634     | 2     | 64K  | 64K  | 512K  |        | 1900    | AMD-V |
 | Intel     | Pentium 3805U                  | 7608     | 2     | 32K  | 32K  | 256K  | 2048K  | 1900    | VT-x  |
@@ -2207,9 +2228,11 @@ CPU Models
 | Intel     | Core Duo T2400                 | 7314     | 2     | 32K  | 32K  | 2048K |        | 1833    | VT-x  |
 | AMD       | Athlon 64 X2 Dual-Core TK-55   | 7232     | 2     | 64K  | 64K  | 256K  |        | 1800    | AMD-V |
 | AMD       | Turion 64 X2 Mobile Technol... | 7232     | 2     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
+| AMD       | E2-9000 RADEON R2, 4 COMPUT... | 7202     | 2     | 32K  | 64K  | 1024K |        | 1800    | AMD-V |
 | Intel     | Celeron 4205U                  | 7202     | 2     | 32K  | 32K  | 256K  | 2048K  | 1800    | VT-x  |
 | Intel     | Celeron 4205U                  | 7202     | 2     | 64K  | 64K  | 512K  | 2M     | 1800    | VT-x  |
 | Intel     | Celeron 3865U                  | 7202     | 2     | 64K  | 64K  | 512K  | 2M     | 1800    | VT-x  |
+| Intel     | Celeron Dual-Core T3000        | 7202     | 2     | 32K  | 32K  | 1024K |        |         |       |
 | AMD       | Turion 64 X2 Mobile Technol... | 7200     | 2     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
 | AMD       | Athlon 64 X2 Dual Core 3400+   | 7200     | 2     | 64K  | 64K  | 512K  |        |         | AMD-V |
 | Intel     | Celeron 3867U                  | 7200     | 2     | 64K  | 64K  | 512K  | 2M     | 1800    | VT-x  |
@@ -2218,8 +2241,10 @@ CPU Models
 | AMD       | Athlon II X2 260u              | 7198     | 2     | 128K | 128K | 2M    |        | 1800    | AMD-V |
 | Intel     | Celeron 1037U                  | 7198     | 2     | 32K  | 32K  | 256K  | 2048K  | 1800    | VT-x  |
 | Intel     | Celeron B830                   | 7194     | 2     | 32K  | 32K  | 256K  | 2048K  | 1800    | VT-x  |
+| Intel     | Celeron 1000M                  | 7194     | 2     | 32K  | 32K  | 256K  | 2048K  | 1800    | VT-x  |
 | Intel     | Pentium 2117U                  | 7194     | 2     | 32K  | 32K  | 256K  | 2048K  | 1800    | VT-x  |
 | AMD       | A9-9420e RADEON R5, 5 COMPU... | 7190     | 2     | 32K  | 64K  | 1024K |        | 1800    | AMD-V |
+| AMD       | E2-3000M APU with Radeon HD... | 7188     | 2     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
 | AMD       | A6-9220C RADEON R5, 5 COMPU... | 7186     | 2     | 32K  | 64K  | 1024K |        | 1800    | AMD-V |
 | Intel     | Celeron G460                   | 7186     | 2     | 32K  | 32K  | 256K  | 1536K  | 1800    | VT-x  |
 | AMD       | Athlon Neo X2 Dual Core 6850e  | 7184     | 2     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
@@ -2228,6 +2253,7 @@ CPU Models
 | Intel     | Core2 Duo T7100                | 7184     | 2     | 32K  | 32K  | 2048K |        | 1801    | VT-x  |
 | Intel     | Core2 Duo P7700                | 7182     | 2     | 32K  | 32K  | 4096K |        | 1800    | VT-x  |
 | Intel     | Atom N270                      | 7142     | 2     | 24K  | 32K  | 512K  |        | 1600    |       |
+| AMD       | E2-2000 APU with Radeon HD ... | 7000     | 2     | 32K  | 32K  | 512K  |        | 1750    | AMD-V |
 | Intel     | Celeron D                      | 6966     | 1     | 16K  |      | 512K  |        |         |       |
 | Intel     | Pentium Dual T2370             | 6936     | 2     | 32K  | 32K  | 1024K |        | 1733    |       |
 | Intel     | Core Duo T2250                 | 6934     | 2     | 32K  | 32K  | 2048K |        | 1735    |       |
@@ -2257,6 +2283,7 @@ CPU Models
 | Intel     | Core2 T5500                    | 6666     | 2     | 32K  | 32K  | 2048K |        | 1667    | VT-x  |
 | Intel     | Core Duo T2300                 | 6652     | 2     | 32K  | 32K  | 2048K |        | 1667    |       |
 | AMD       | G-T56N                         | 6602     | 2     | 32K  | 32K  | 512K  |        | 1650    | AMD-V |
+| AMD       | E2-3000 APU with Radeon HD ... | 6590     | 2     | 32K  | 32K  | 1024K |        | 1650    | AMD-V |
 | AMD       | GX-217GA SOC with Radeon HD... | 6586     | 2     | 32K  | 32K  | 1024K |        | 1650    | AMD-V |
 | Intel     | Celeron E1200                  | 6452     | 2     | 32K  | 32K  | 512K  |        | 1603    |       |
 | Intel     | Pentium Dual T2330             | 6444     | 2     | 32K  | 32K  | 1024K |        | 1600    |       |
@@ -2318,6 +2345,7 @@ CPU Models
 | Intel     | Pentium 987                    | 5994     | 2     | 32K  | 32K  | 256K  | 2048K  | 1500    |       |
 | AMD       | Turion II Neo N40L Dual-Core   | 5990     | 2     | 64K  | 64K  | 1024K |        | 1500    | AMD-V |
 | AMD       | A4-9120e RADEON R3, 4 COMPU... | 5990     | 2     | 32K  | 64K  | 1024K |        | 1500    | AMD-V |
+| AMD       | E2-9000e RADEON R2, 4 COMPU... | 5990     | 2     | 32K  | 64K  | 1024K |        | 1500    | AMD-V |
 | AMD       | E1-7010 APU with AMD Radeon... | 5990     | 2     | 32K  | 32K  | 1024K |        | 1500    | AMD-V |
 | AMD       | Embedded G-Series GX-215JJ ... | 5988     | 2     | 64K  | 128K | 2M    |        | 1500    | AMD-V |
 | AMD       | E2-7015 APU with AMD Radeon... | 5988     | 2     | 32K  | 32K  | 1024K |        | 1500    | AMD-V |
@@ -2363,6 +2391,7 @@ CPU Models
 | AMD       | Athlon 64 3500+                | 5279     | 1     | 64K  | 64K  | 512K  |        | 2200    | AMD-V |
 | AMD       | Sempron 130                    | 5223     | 1     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | AMD       | Sempron 130                    | 5210     | 1     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
+| AMD       | Athlon 64 4000+                | 5199     | 1     | 64K  | 64K  | 512K  |        | 2600    | AMD-V |
 | AMD       | E-300 APU with Radeon HD Gr... | 5192     | 2     | 32K  | 32K  | 512K  |        | 1300    | AMD-V |
 | AMD       | Athlon II Neo N36L Dual-Core   | 5190     | 2     | 64K  | 64K  | 1024K |        | 1300    | AMD-V |
 | Intel     | Pentium 967                    | 5188     | 2     | 32K  | 32K  | 256K  | 2048K  | 1300    |       |
@@ -2370,11 +2399,13 @@ CPU Models
 | Intel     | Atom E3930                     | 5144     | 2     | 24K  | 32K  | 1024K |        | 1800    | VT-x  |
 | AMD       | Athlon LE-1600                 | 5115     | 1     | 64K  | 64K  | 1024K |        | 2200    | AMD-V |
 | Intel     | U2300                          | 5038     | 2     | 32K  | 32K  | 1024K |        |         | VT-x  |
+| AMD       | Athlon 64 3000+                | 5000     | 1     | 64K  | 64K  | 512K  |        | 2000    |       |
 | AMD       | Athlon 64 3200+                | 5000     | 1     | 64K  | 64K  | 512K  |        | 2000    | AMD-V |
 | AMD       | Athlon 64 3200+                | 4999     | 1     | 64K  | 64K  | 512K  |        | 2000    |       |
 | Intel     | Pentium 4                      | 4997     | 1     |      |      |       |        |         |       |
 | Intel     | Mobile Intel Pentium 4 - M     | 4984     | 1     |      |      |       |        | 2500    |       |
 | AMD       | Athlon 64 3800+                | 4826     | 1     | 64K  | 64K  | 512K  |        | 2400    |       |
+| AMD       | Athlon 64 4000+                | 4824     | 1     | 64K  | 64K  | 1024K |        |         |       |
 | AMD       | Athlon 64 3800+                | 4824     | 1     | 64K  | 64K  | 512K  |        | 2400    | AMD-V |
 | AMD       | Athlon 64 3400+                | 4823     | 1     | 64K  | 64K  | 512K  |        |         |       |
 | AMD       | Athlon 64 3800+                | 4822     | 1     | 64K  | 64K  | 512K  |        | 2400    | AMD-V |
@@ -2426,12 +2457,16 @@ CPU Models
 | Intel     | Celeron N3350                  | 4388     | 2     | 24K  | 32K  | 1024K |        | 2400    | VT-x  |
 | AMD       | Turion 64 Mobile Technology... | 4387     | 1     | 64K  | 64K  | 1024K |        | 2200    |       |
 | Intel     | Mobile Intel Pentium 4 - M     | 4382     | 1     |      |      |       |        |         |       |
+| Intel     | Celeron N4000                  | 4378     | 2     | 24K  | 32K  | 4096K |        | 2600    | VT-x  |
 | Intel     | Celeron N4020                  | 4378     | 2     | 48K  | 64K  | 4M    |        | 2800    | VT-x  |
 | AMD       | Athlon 64 3400+                | 4377     | 1     | 64K  | 64K  | 512K  |        | 2200    |       |
+| Intel     | Celeron N4000C                 | 4376     | 2     | 24K  | 32K  | 4096K |        | 2600    | VT-x  |
 | Intel     | Celeron N3350                  | 4376     | 2     | 24K  | 32K  | 1024K |        | 2400    | VT-x  |
+| AMD       | Athlon 64 3000+                | 4338     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
 | Intel     | 585                            | 4335     | 1     | 32K  | 32K  | 1024K |        | 2167    |       |
 | Intel     | Celeron 530                    | 4322     | 1     | 32K  | 32K  | 1024K |        | 1733    |       |
 | Intel     | Celeron 430                    | 4320     | 1     | 32K  | 32K  | 512K  |        |         |       |
+| AMD       | Athlon XP 3000+                | 4316     | 1     | 64K  | 64K  | 512K  |        |         |       |
 | Intel     | Celeron 560                    | 4266     | 1     | 32K  | 32K  | 1024K |        | 2133    |       |
 | Intel     | Pentium M                      | 4257     | 1     |      |      |       |        | 2267    |       |
 | Intel     | Core Duo U2400                 | 4256     | 2     | 32K  | 32K  | 2048K |        | 1067    | VT-x  |
@@ -2443,8 +2478,13 @@ CPU Models
 | AMD       | Athlon XP 2800+                | 4209     | 1     | 64K  | 64K  | 512K  |        | 2087    |       |
 | AMD       | Sempron SI-42                  | 4201     | 1     | 64K  | 64K  | 512K  |        | 2100    |       |
 | AMD       | Sempron M120                   | 4188     | 1     |      |      |       |        | 2100    | AMD-V |
+| Intel     | Celeron N3000                  | 4160     | 2     | 24K  | 32K  | 1024K |        | 2080    | VT-x  |
 | Intel     | Celeron N3010                  | 4160     | 2     | 24K  | 32K  | 1024K |        | 2240    | VT-x  |
+| AMD       | Athlon 64 3000+                | 4049     | 1     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
+| AMD       | Sempron 3000+                  | 4026     | 1     | 64K  | 64K  | 512K  |        |         |       |
 | AMD       | Athlon 64 3200+                | 4021     | 1     | 64K  | 64K  | 512K  |        | 2000    | AMD-V |
+| AMD       | Athlon 64 3000+                | 4020     | 1     | 64K  | 64K  | 1024K |        | 2000    |       |
+| AMD       | Athlon 64 3000+                | 4020     | 1     | 64K  | 64K  | 512K  |        | 2000    |       |
 | AMD       | Sempron 3300+                  | 4020     | 1     | 64K  | 64K  | 128K  |        | 2000    |       |
 | AMD       | Athlon 64 3200+                | 4020     | 1     | 64K  | 64K  | 512K  |        | 2000    |       |
 | AMD       | Sempron 3600+                  | 4020     | 1     | 64K  | 64K  | 256K  |        | 2000    |       |
@@ -2495,6 +2535,7 @@ CPU Models
 | AMD       | Sempron 3400+                  | 3979     | 1     | 64K  | 64K  | 128K  |        |         |       |
 | AMD       | Athlon XP 2600+                | 3849     | 1     | 64K  | 64K  | 512K  |        | 1920    |       |
 | AMD       | Sempron LE-1100                | 3817     | 1     | 64K  | 64K  | 256K  |        |         |       |
+| AMD       | Athlon XP 2000+                | 3769     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | Intel     | Celeron M 440                  | 3735     | 1     | 32K  | 32K  | 1024K |        |         |       |
 | Intel     | Celeron 540                    | 3735     | 1     | 32K  | 32K  | 1024K |        | 1867    |       |
 | Intel     | T1350                          | 3733     | 1     | 32K  | 32K  | 2048K |        | 1867    |       |
@@ -2502,18 +2543,25 @@ CPU Models
 | AMD       | Athlon XP 2500+                | 3682     | 1     | 64K  | 64K  | 512K  |        | 1837    |       |
 | AMD       | Mobile Athlon XP 2500+         | 3665     | 1     | 64K  | 64K  | 512K  |        |         |       |
 | Intel     | T1400                          | 3657     | 1     | 32K  | 32K  | 2048K |        | 1833    |       |
+| AMD       | Athlon 64 3000+                | 3619     | 1     | 64K  | 64K  | 512K  |        |         |       |
 | AMD       | Athlon 64 2800+                | 3618     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
+| AMD       | Athlon 64 3000+                | 3618     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
+| AMD       | Sempron 3000+                  | 3618     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
+| AMD       | Sempron 3000+                  | 3618     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
 | AMD       | Sempron 3200+                  | 3618     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
 | AMD       | Sempron 3200+                  | 3617     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
 | AMD       | Athlon 64 2800+                | 3616     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
 | AMD       | Mobile Sempron                 | 3616     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
 | AMD       | Mobile Sempron 3400+           | 3616     | 1     | 64K  | 64K  | 256K  |        | 1800    |       |
 | AMD       | Mobile Sempron 3500+           | 3616     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
+| AMD       | Athlon 64 3000+                | 3616     | 1     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
 | AMD       | Sempron 3400+                  | 3616     | 1     | 64K  | 64K  | 256K  |        | 1800    |       |
 | AMD       | Sempron 3100+                  | 3608     | 1     | 64K  | 64K  | 256K  |        | 1800    |       |
+| AMD       | Mobile Sempron 3000+           | 3608     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
 | Intel     | Pentium 4                      | 3608     | 1     |      |      |       |        |         |       |
 | Intel     | Celeron                        | 3608     | 1     |      |      |       |        |         |       |
 | AMD       | Athlon 2850e                   | 3600     | 1     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
+| AMD       | Sempron 3000+                  | 3600     | 1     | 64K  | 64K  | 128K  |        |         |       |
 | AMD       | Turion 64 Mobile Technology... | 3600     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
 | AMD       | Turion 64 Mobile Technology... | 3600     | 1     | 64K  | 64K  | 1024K |        | 1800    |       |
 | AMD       | Mobile Sempron 3100+           | 3600     | 1     | 64K  | 64K  | 256K  |        | 1800    |       |
@@ -2522,7 +2570,10 @@ CPU Models
 | Intel     | Pentium M                      | 3599     | 1     |      |      |       |        | 2000    |       |
 | AMD       | Athlon II Neo K145             | 3592     | 1     | 64K  | 64K  | 1024K |        | 1800    | AMD-V |
 | VIA       | C7-D                           | 3591     | 1     |      |      |       |        | 1800    |       |
+| AMD       | Sempron 3000+                  | 3589     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
 | AMD       | Sempron 3200+                  | 3589     | 1     | 64K  | 64K  | 256K  |        | 1800    |       |
+| AMD       | Athlon 64 3000+                | 3581     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
+| AMD       | Sempron 3000+                  | 3581     | 1     | 64K  | 64K  | 128K  |        | 1800    |       |
 | AMD       | Athlon II Neo K125             | 3503     | 1     | 64K  | 64K  | 1024K |        | 1700    | AMD-V |
 | Intel     | Celeron M 430                  | 3468     | 1     | 32K  | 32K  | 1024K |        |         |       |
 | Intel     | Celeron M 430                  | 3466     | 1     | 32K  | 32K  | 1024K |        |         |       |
@@ -2530,16 +2581,20 @@ CPU Models
 | Intel     | Celeron M 530                  | 3459     | 1     | 32K  | 32K  | 1024K |        |         |       |
 | Intel     | Celeron M 530                  | 3457     | 1     | 32K  | 32K  | 1024K |        |         |       |
 | Intel     | Celeron M                      | 3425     | 1     |      |      |       |        | 1600    |       |
+| AMD       | Athlon XP 2000+                | 3400     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | Intel     | Pentium 4                      | 3392     | 1     |      |      |       |        |         |       |
 | Intel     | Pentium M                      | 3389     | 1     |      |      |       |        | 1700    |       |
 | AMD       | Sempron 2400+                  | 3347     | 1     | 64K  | 64K  | 256K  |        | 1670    |       |
 | AMD       | Athlon                         | 3334     | 1     | 64K  | 64K  | 256K  |        | 1150    |       |
+| AMD       | Athlon XP 2000+                | 3331     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | Intel     | T1300                          | 3326     | 1     | 32K  | 32K  | 2048K |        | 1667    | VT-x  |
+| AMD       | Athlon XP 2000+                | 3323     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | AMD       | Mobile Athlon XP-M 2200+       | 3316     | 1     | 64K  | 64K  | 512K  |        | 1658    |       |
 | AMD       | Sempron 2600+                  | 3215     | 1     | 64K  | 64K  | 128K  |        |         |       |
 | AMD       | Sempron 2800+                  | 3214     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | AMD       | Turion 64 X2                   | 3214     | 2     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
 | AMD       | Sempron 2800+                  | 3214     | 1     | 64K  | 64K  | 128K  |        |         |       |
+| AMD       | Sempron 3000+                  | 3214     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | AMD       | Mobile Sempron 3200+           | 3206     | 1     | 64K  | 64K  | 512K  |        | 1600    |       |
 | AMD       | Athlon Neo MV-40               | 3201     | 1     | 64K  | 64K  | 512K  |        | 1600    | AMD-V |
 | Intel     | Celeron M 520                  | 3201     | 1     | 32K  | 32K  | 1024K |        |         |       |
@@ -2555,10 +2610,11 @@ CPU Models
 | AMD       | Turion 64 Mobile Technology... | 3199     | 1     | 64K  | 64K  | 1024K |        | 1600    |       |
 | Intel     | Pentium 4 Mobile               | 3197     | 1     |      |      |       |        | 1600    |       |
 | Intel     | Celeron G440                   | 3194     | 1     | 32K  | 32K  | 256K  | 1024K  | 1600    | VT-x  |
-| VIA       | Nano U2250 (1.6GHz Capable)    | 3193     | 1     |      |      |       |        | 1600    | VT-x  |
+| VIA       | Nano U2250                     | 3193     | 1     |      |      |       |        | 1600    | VT-x  |
 | AMD       | Athlon Neo X2 Dual Core L335   | 3192     | 2     | 64K  | 64K  | 256K  |        | 1600    | AMD-V |
 | VIA       | C7-M                           | 3192     | 1     |      |      |       |        | 1600    |       |
-| VIA       | Nano U2250@1300+MHz            | 3192     | 1     |      |      |       |        | 1600    | VT-x  |
+| VIA       | Nano U2250                     | 3192     | 1     |      |      |       |        | 1600    | VT-x  |
+| AMD       | Athlon XP 3000+                | 3191     | 1     | 64K  | 64K  | 256K  |        | 1600    |       |
 | AMD       | Athlon 64 X2 Dual-Core TK-53   | 3190     | 2     | 64K  | 64K  | 256K  |        | 1700    | AMD-V |
 | AMD       | Athlon 64 X2 Dual-Core TK-42   | 3190     | 2     | 64K  | 64K  | 512K  |        | 1600    | AMD-V |
 | AMD       | Turion 64 X2 Mobile Technol... | 3190     | 2     | 64K  | 64K  | 512K  |        | 1800    | AMD-V |
@@ -2585,7 +2641,7 @@ CPU Models
 | Intel     | Celeron 743                    | 2594     | 1     | 32K  | 32K  | 1024K |        |         |       |
 | Intel     | U2700                          | 2593     | 1     | 32K  | 32K  | 2048K |        | 1300    |       |
 | Intel     | Pentium III family             | 2539     | 1     |      |      |       |        |         |       |
-| VIA       | Nano U3300@1200MHz             | 2400     | 1     |      |      |       |        | 1200    | VT-x  |
+| VIA       | Nano U3300                     | 2400     | 1     |      |      |       |        | 1200    | VT-x  |
 | AMD       | C-30                           | 2395     | 1     | 32K  | 32K  | 512K  |        | 1200    | AMD-V |
 | AMD       | G-T44R                         | 2395     | 1     | 32K  | 32K  | 512K  |        | 1200    | AMD-V |
 | Intel     | Celeron 723                    | 2395     | 1     | 32K  | 32K  | 1024K |        |         |       |
@@ -2602,13 +2658,16 @@ CPU Models
 | AMD       | Athlon                         | 2000     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | Intel     | Celeron (Coppermine)           | 2000     | 1     |      |      |       |        |         |       |
 | Intel     | Pentium III (Coppermine)       | 1999     | 1     |      |      |       |        |         |       |
+| Intel     | 4000                           | 1996     | 2     | 48K  | 64K  | 1M    |        | 500     | VT-x  |
 | VIA       | Eden                           | 1995     | 1     |      |      |       |        |         |       |
+| VIA       | Nano U3500                     | 1995     | 1     |      |      |       |        | 1000    | VT-x  |
 | AMD       | Athlon 64 3700+                | 1989     | 1     | 64K  | 64K  | 1024K |        | 2200    |       |
 | Intel     | Pentium III (Coppermine)       | 1988     | 1     |      |      |       |        |         |       |
 | AMD       | Mobile Duron                   | 1600     | 1     | 64K  | 64K  | 64K   |        |         |       |
 | AMD       | Athlon 64 3200+                | 1596     | 1     | 64K  | 64K  | 1024K |        | 2000    |       |
 | AMD       | Athlon TF-20                   | 1595     | 1     | 64K  | 64K  | 512K  |        | 1600    | AMD-V |
 | AMD       | Turion 64 Mobile ML-32         | 1595     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
+| AMD       | Athlon XP 3000+                | 1595     | 1     | 64K  | 64K  | 256K  |        |         |       |
 | AMD       | Turion 64 Mobile Technology... | 1591     | 1     | 64K  | 64K  | 1024K |        | 1600    |       |
 | AMD       | Turion 64 Mobile Technology... | 1591     | 1     | 64K  | 64K  | 512K  |        | 1800    |       |
 | AMD       | Turion 64 Mobile Technology... | 1591     | 1     | 64K  | 64K  | 1024K |        | 1800    |       |
