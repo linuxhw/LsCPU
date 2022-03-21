@@ -1,0 +1,31 @@
+Architecture:                    aarch64
+CPU op-mode(s):                  64-bit
+Byte Order:                      Little Endian
+CPU(s):                          8
+On-line CPU(s) list:             0-7
+Thread(s) per core:              1
+Core(s) per socket:              8
+Socket(s):                       1
+NUMA node(s):                    1
+Vendor ID:                       HiSilicon
+Model:                           0
+Model name:                      Kunpeng-920
+Stepping:                        0x1
+CPU max MHz:                     2600.0000
+CPU min MHz:                     200.0000
+BogoMIPS:                        200.00
+L1d cache:                       512 KiB
+L1i cache:                       512 KiB
+L2 cache:                        4 MiB
+L3 cache:                        32 MiB
+NUMA node0 CPU(s):               0-7
+Vulnerability Itlb multihit:     Not affected
+Vulnerability L1tf:              Not affected
+Vulnerability Mds:               Not affected
+Vulnerability Meltdown:          Not affected
+Vulnerability Spec store bypass: Not affected
+Vulnerability Spectre v1:        Mitigation; __user pointer sanitization
+Vulnerability Spectre v2:        Not affected
+Vulnerability Srbds:             Not affected
+Vulnerability Tsx async abort:   Not affected
+Flags:                           fp asimd evtstrm aes pmull sha1 sha2 crc32 atomics fphp asimdhp cpuid asimdrdm jscvt fcma dcpop asimddp asimdfhm

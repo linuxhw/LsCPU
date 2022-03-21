@@ -1,0 +1,19 @@
+Architecture:        i686
+CPU op-mode(s):      32-bit
+Byte Order:          Little Endian
+Address sizes:       36 bits physical, 32 bits virtual
+CPU(s):              1
+On-line CPU(s) list: 0
+Thread(s) per core:  1
+Core(s) per socket:  1
+Socket(s):           1
+Vendor ID:           GenuineIntel
+CPU family:          6
+Model:               11
+Model name:          Intel(R) Pentium(R) III Mobile CPU      1000MHz
+Stepping:            1
+CPU MHz:             733.000
+CPU max MHz:         1000.0000
+CPU min MHz:         733.0000
+BogoMIPS:            1461.08
+Flags:               fpu vme de pse tsc msr pae mce cx8 sep mtrr pge mca cmov pse36 mmx fxsr sse cpuid pti
